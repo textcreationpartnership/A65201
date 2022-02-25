@@ -1,0 +1,4240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mysteries of Mount Calvary opened and improved In a dialogue betwixt Christ and the soul. By J.V. rector of Woodston, in the county of Huntington.</title>
+            <author>J. V.,  rector of Woodston, in the county of Huntington.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65201</idno>
+            <idno type="STC">Wing V9</idno>
+            <idno type="STC">ESTC R222549</idno>
+            <idno type="EEBO-CITATION">99833708</idno>
+            <idno type="PROQUEST">99833708</idno>
+            <idno type="VID">38186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mysteries of Mount Calvary opened and improved In a dialogue betwixt Christ and the soul. By J.V. rector of Woodston, in the county of Huntington.</title>
+                  <author>J. V.,  rector of Woodston, in the county of Huntington.</author>
+               </titleStmt>
+               <extent>[4], 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Parkhurst, at the Bible and Three Crowns at the lower end of Cheapside near Mercers Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a license to print on A1v.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:38186:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:38186:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb facs="tcp:38186:2"/>Licenſed and Entred according to Order.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:38186:2" rendition="simple:additions"/>
+            <p>THE MYSTERIES OF MOUNT CALVARY Opened and Improved. IN A DIALOGUE BETWIXT CHRIST and the SOUL.</p>
+            <q>
+               <p>Omnis creatura compatitur Chriſto morienti, ſol obſcuratur, terra movetur Petrae ſcinduntur, velum templi dividitur; Sepulchra aperiuntur, Solus homo Chriſto non Compa<g ref="char:EOLhyphen"/>titur, pro quo tamen Solo Chriſtus patitur.</p>
+               <bibl>
+                  <hi>S. Hieronymus</hi> in <hi>Mat.</hi> 27.</bibl>
+            </q>
+            <q>
+               <l>Aut prodeſſe volunt, aut delectare Poetae,</l>
+               <l>Aut ſimul &amp; jucunda, &amp; idonea dicere vitae.</l>
+               <bibl>
+                  <hi>Horat.</hi> de Arte Poetica.</bibl>
+            </q>
+            <p>By <hi>J. V</hi> Rector of <hi>Woodſton,</hi> in the County of <hi>Huntington</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapſide</hi> near <hi>Mercers Chappel.</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue_in_verse">
+            <pb facs="tcp:38186:3"/>
+            <pb n="1" facs="tcp:38186:3"/>
+            <head>THE MYSTERIES OF Mount CALVARY, &amp;c.</head>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>GRant me O Lord! thy Spirit from above,</l>
+               <l>That I may know the myſteries of thy Love.</l>
+               <l>It cramps my Reaſon, and it damps my Faith,</l>
+               <l>To read the ſtories of thy Life and Death.</l>
+               <l>Thou art my God; infinite Wiſdom can</l>
+               <l>Beſt ſolve the point why God became a man.</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Behold my Soul! God's a tranſcendent Sprite,</hi>
+               </l>
+               <l>
+                  <hi>Love, Wiſdom, Juſtice, Mercy, infinite.</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:38186:4"/>
+                  <hi>Such is his Glorious Nature to the Eye,</hi>
+               </l>
+               <l>
+                  <hi>Once to behold, is to behold and Dye.</hi>
+               </l>
+               <l>
+                  <hi>Nor can a proſpect of the Sun be made,</hi>
+               </l>
+               <l>
+                  <hi>Ere grateful to the Eye but in a ſhade.</hi>
+               </l>
+               <l>
+                  <hi>The Vail of</hi> Moſes <hi>Face was as a Glaſs,</hi>
+               </l>
+               <l>
+                  <hi>For to reflect the glory of his Face.</hi>
+               </l>
+               <l>Moſes <hi>Vail was my fleſh, that pleaſing ſhade,</hi>
+               </l>
+               <l>
+                  <hi>In which Gods Attributes were all diſplai'd.</hi>
+               </l>
+               <l>
+                  <hi>Sin was conceived firſt by Virgin Woman,</hi>
+               </l>
+               <l>
+                  <hi>Since</hi> Adam <hi>knew her not, and ſhe knew no man.</hi>
+               </l>
+               <l>
+                  <hi>By Virgin woman ſin found entrance in,</hi>
+               </l>
+               <l>
+                  <hi>The Virgin Woman's ſeed attones the ſin.</hi>
+               </l>
+               <l>
+                  <hi>The birth of ſins controuled by my birth,</hi>
+               </l>
+               <l>
+                  <hi>Since I was pure and ſpotleſs born of Earth.</hi>
+               </l>
+               <l>
+                  <hi>Pure as my birth, my life hence qualifi'd,</hi>
+               </l>
+               <l>
+                  <hi>To expiate thoſe ſins for which I di'd.</hi>
+               </l>
+               <l>
+                  <hi>Nor did my human nature leſs expreſs,</hi>
+               </l>
+               <l>
+                  <hi>Gods Wiſdom equal to his Holineſs.</hi>
+               </l>
+               <l>
+                  <hi>'Twas Fleſh and Blood that ſin'd; to make this good,</hi>
+               </l>
+               <l>
+                  <hi>Thy ſin I did atone by Fleſh and Blood.</hi>
+               </l>
+               <l>
+                  <hi>'Twas man that ſin'd, 'twas God that was offended,</hi>
+               </l>
+               <l>
+                  <hi>Man di'd, God's ſatisfied, the quarrel ended.</hi>
+               </l>
+               <l>
+                  <hi>God's peace with man's, proclaimed by my merit;</hi>
+               </l>
+               <l>
+                  <hi>Man's peace with God's, procured by my Spirit.</hi>
+               </l>
+               <l>
+                  <hi>I took thy nature, ſo imparted mine;</hi>
+               </l>
+               <l>
+                  <hi>I was humane, that thou may'ſt be Divine.</hi>
+               </l>
+               <l>
+                  <hi>I came from Heaven, to Heaven I plain'd the Rode,</hi>
+               </l>
+               <l>
+                  <hi>God dwelt with man, that man may dwell with God.</hi>
+               </l>
+               <l>
+                  <hi>When I for ſin a Sacrifice was made,</hi>
+               </l>
+               <l>
+                  <hi>Gods Juſtice like his Wiſdom was diſplay'd.</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="tcp:38186:4"/>
+                  <hi>That mercy may be ſhown, God will be Juſt,</hi>
+               </l>
+               <l>
+                  <hi>Either the ſinner dyes, or Jeſus muſt.</hi>
+               </l>
+               <l>
+                  <hi>At the ſame inſtant Mercy meant thy good,</hi>
+               </l>
+               <l>
+                  <hi>Juſtice procur'd it, with the price of Blood;</hi>
+               </l>
+               <l>
+                  <hi>Nor do'ſt thou read God ever pard'ned Vice,</hi>
+               </l>
+               <l>
+                  <hi>Scarce with, but ne'r without a Sacrifice:</hi>
+               </l>
+               <l>
+                  <hi>For ſo the</hi> Jews <hi>in all their ſolemn Feaſts,</hi>
+               </l>
+               <l>
+                  <hi>To atone their ſins they Sacrificed Beasts.</hi>
+               </l>
+               <l>
+                  <hi>And when the Lamb was ſlain i'th' ſinners ſtead,</hi>
+               </l>
+               <l>
+                  <hi>The guilt paſs'd over to th' accurſed head.</hi>
+               </l>
+               <l>
+                  <hi>By theſe and other rites, it was infer'd,</hi>
+               </l>
+               <l>
+                  <hi>Sin was not ſtrictly pardon'd, as transfer'd.</hi>
+               </l>
+               <l>David <hi>purſu'd with guilt, to th' Altar flies;</hi>
+               </l>
+               <l>
+                  <hi>His ſin is pard'ned, but his Infant dies.</hi>
+               </l>
+               <l>
+                  <hi>So Juſt is God, but yet ſo meek and mild,</hi>
+               </l>
+               <l>
+                  <hi>He pardons ſin, but puniſheth his Child.</hi>
+               </l>
+               <l>
+                  <hi>Fear to offend, Juſtice being ſo ſevere;</hi>
+               </l>
+               <l>
+                  <hi>Since that thy pardon too doth coſt ſo dear:</hi>
+               </l>
+               <l>
+                  <hi>That God is merciful, thy ſins do ſhew it.</hi>
+               </l>
+               <l>
+                  <hi>His bleſſed nature prompts him daily to it.</hi>
+               </l>
+               <l>
+                  <hi>But ſince I paid ſo dearly for thy ſin,</hi>
+               </l>
+               <l>
+                  <hi>Juſtice it ſelf doth uſher Mercy in;</hi>
+               </l>
+               <l>
+                  <hi>So contrite Souls may in Gods Mercy truſt,</hi>
+               </l>
+               <l>
+                  <hi>Since God is merciful, 'cauſe he is juſt.</hi>
+               </l>
+               <l>
+                  <hi>Buying thy Ranſom at ſo dear a price,</hi>
+               </l>
+               <l>
+                  <hi>Juſtice can ne'r demand the payment twice;</hi>
+               </l>
+               <l>
+                  <hi>Gods Love like to his Mercy's infinite;</hi>
+               </l>
+               <l>
+                  <hi>Exerting all its pow'rs with all its might.</hi>
+               </l>
+               <l>
+                  <hi>Light ceaſes not to ſpread his Golden Bams,</hi>
+               </l>
+               <l>
+                  <hi>Fountains would drain themſelves in Silver Streams.</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:38186:5"/>
+                  <hi>God can't be leſs than the work of his hands,</hi>
+               </l>
+               <l>
+                  <hi>His very Nature is what love commands:</hi>
+               </l>
+               <l>
+                  <hi>Thy ſelf unto thy ſelf God gave thee once,</hi>
+               </l>
+               <l>
+                  <hi>Ten thouſand times thy ſelf he gave thee ſince;</hi>
+               </l>
+               <l>
+                  <hi>But when thy ſin and miſery he ſpi'd,</hi>
+               </l>
+               <l>
+                  <hi>Took fleſh, ſo gave himſelf for thee, and di'd</hi>
+               </l>
+               <l>
+                  <hi>Thus love from Heaven diſcharging every dart,</hi>
+               </l>
+               <l>
+                  <hi>At laſt he threw himſelf into thy heart;</hi>
+               </l>
+               <l>
+                  <hi>Not only took thy fleſh, and ſo thy ſin,</hi>
+               </l>
+               <l>
+                  <hi>But being man like thee, became thy kin.</hi>
+               </l>
+               <l>
+                  <hi>What friendſhip e're was found in any other,</hi>
+               </l>
+               <l>
+                  <hi>Of Friend, Phyſician, Advocate, or Brother,</hi>
+               </l>
+               <l>
+                  <hi>All meet in me; nay I am more then this,</hi>
+               </l>
+               <l>
+                  <hi>Thy Fleſh, thy Life, thy ſelf, thy God, thy bliſs.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since 'twas my Lords bleſt purpoſe and intent,</l>
+               <l>Within my Nature for to pitch his Tent;</l>
+               <l>Since that thy houſe, meat, grave, they were not thine,</l>
+               <l>The reaſon is (my Lord) thou wouldſt have mine.</l>
+               <l>Come Holy Ghoſt! and by thy ſpritely art,</l>
+               <l>Hover and breathe upon my barren heart.</l>
+               <l>Since the place ſacred is where God will come,</l>
+               <l>Make my heart like unto the Virgins Womb.</l>
+               <l>Tho 'tis not pure, as knowing ſin before,</l>
+               <l>Let it be Virgin, knowing ſin no more;</l>
+               <l>Once in a Manger was thy Body lay'd,</l>
+               <l>But in a Jakes I bluſh to have it ſaid.</l>
+               <l>
+                  <pb n="5" facs="tcp:38186:5"/>Into a worldly mind thou canſt not come,</l>
+               <l>'Tis pinching, narrow, and it wanteth room,</l>
+               <l>Nor can I hear thy ſweet and ſecret Voice,</l>
+               <l>In a Houſe fill'd with jangling War and noiſe.</l>
+               <l>Nor canſt thou dwell in a revengeful Breſt,</l>
+               <l>The noiſe and hurry will diſturb thy Reſt.</l>
+               <l>Nor can my Lord an Habitation find,</l>
+               <l>Fit for thy Preſence, in an haughty mind;</l>
+               <l>Self taketh up the room, and fills thy ſpace</l>
+               <l>Of reſidence, and ſcorns to give thee place.</l>
+               <l>Uncleanneſs doth thy ſacred ſpirit choak,</l>
+               <l>Bees ſhun the Hive, when driven out by ſmoak</l>
+               <l>Drunkards do quench thy Sprite, pure and Divine,</l>
+               <l>Who cannot keep his own, he cannot thine.</l>
+               <l>Nor can the God of truth e're dwell within</l>
+               <l>A naughty mind, where treachery hath been,</l>
+               <l>Since it betrays him to each tempting ſin.</l>
+               <l>Nor can a ſin within thy Temple dwell,</l>
+               <l>No more than Heaven can e're accord with Hell,</l>
+               <l>What friendſhip hath my God with <hi>Belial?</hi>
+               </l>
+               <l>Why wouldſt thou condeſcend, Lord let me know,</l>
+               <l>Not to be made a man, but man ſo low?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Such was thy pride, daring with God to vye;</hi>
+               </l>
+               <l>
+                  <hi>And I atton'd it by humility.</hi>
+               </l>
+               <l>
+                  <hi>God envys none his happineſs; to know it,</hi>
+               </l>
+               <l>
+                  <hi>When pride atempted it, and did foregoe it,</hi>
+               </l>
+               <l>
+                  <hi>Humility points out the way unto it.</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:38186:6"/>
+                  <hi>Such is the Virtue of an humble Soul,</hi>
+               </l>
+               <l>
+                  <hi>Coupling all graces, and ſecures the whole.</hi>
+               </l>
+               <l>
+                  <hi>Bleſt be the grace to which alone 'tis given,</hi>
+               </l>
+               <l>
+                  <hi>To fetch God down to Earth, raiſe man to Heaven.</hi>
+               </l>
+               <l>
+                  <hi>Such is its power and vertue that it can</hi>
+               </l>
+               <l>
+                  <hi>Make man become like God, and God like man.</hi>
+               </l>
+               <l>
+                  <hi>God greater than himſelf can never be,</hi>
+               </l>
+               <l>
+                  <hi>Except in this, great in humility.</hi>
+               </l>
+               <l>
+                  <hi>God and man courts this grace, Heaven is Gods ſeat,</hi>
+               </l>
+               <l>
+                  <hi>He's but one more, the humble ſoul is it.</hi>
+               </l>
+               <l>
+                  <hi>When greatneſs doth with goodneſs twist and twine,</hi>
+               </l>
+               <l>
+                  <hi>What can be more Heroick and Divine.</hi>
+               </l>
+               <l>
+                  <hi>What makes the Sun ſo graceful but his light,</hi>
+               </l>
+               <l>
+                  <hi>Quickning the meaneſt object of our ſight.</hi>
+               </l>
+               <l>
+                  <hi>Never did Radient Pearl ſo pleaſe the eye,</hi>
+               </l>
+               <l>
+                  <hi>As to behold an humble Deity,</hi>
+               </l>
+               <l>
+                  <hi>Learn O my Child this bleſſed grace of me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Thy pardon Lord! methinks thy ſinful Creature,</l>
+               <l>Should learn this leſſon of his wretched nature.</l>
+               <l>Earth ſhould be Earth, and Worms are ever found,</l>
+               <l>Like other inſects, crawling on the ground.</l>
+               <l>Man to be lowly, is as if I ſaid,</l>
+               <l>Man ſhould be man, duſt duſt, a ſpade a ſpade.</l>
+               <l>How can man pride himſelf, and himſelf flatter,</l>
+               <l>When ſin's his form, and nothing is his matter.</l>
+               <l>Poor and proud! is the greateſt monſter, ſeeing</l>
+               <l>None but it ſelf can give it ſelf a being:</l>
+               <l>
+                  <pb n="7" facs="tcp:38186:6"/>Man's all is God, nothing's his own beſide;</l>
+               <l>That which is worſe than nothing, that's his pride.</l>
+               <l>Pride therefore is a ſin of Monſtrous birth,</l>
+               <l>Who Serpent like, feeds on the ſlime o'th' Earth.</l>
+               <l>Black ſpawn of Hell! Void of intelligence,</l>
+               <l>Got in the darkſome night of ignorance,</l>
+               <l>Who like a Viper eats through's Mother's ſide,</l>
+               <l>Since nothing but a nothing genders pride.</l>
+               <l>So bladders ſwell and skip for want of poiſe,</l>
+               <l>And empty Veſſels make the greateſt noiſe.</l>
+               <l>When Fruitful Trees of young and early Birth,</l>
+               <l>Do end their teeming burdens to the Earth,</l>
+               <l>So Pearls in dark and deepeſt Earth are found,</l>
+               <l>And ſweeteſt Violets trail on the ground.</l>
+               <l>My ſelf unto my ſelf do thou diſcloſe!</l>
+               <l>Who knows not his own nothing, nothing knows.</l>
+               <l>Gods greatneſs and mans ſin's ſo deep a pit,</l>
+               <l>Such as no mortal man e're ſounded yet.</l>
+               <l>Who counts himſelf a ſinful wretched man;</l>
+               <l>He is more wretched than his thoughts can ſpan.</l>
+               <l>Lord let me know and feel my nothingneſs;</l>
+               <l>Then do thou fill this wide and empty ſpace</l>
+               <l>With plenitude and riches of thy grace.</l>
+               <l>Since I am nothing of my ſelf alone,</l>
+               <l>And nothing nothing hath to bottom on,</l>
+               <l>Lord touch my heart as needle's touch't with ſtone!</l>
+               <l>That it may point and fix on thee alone.</l>
+               <l>Why did my Lord and Saviour think it beſt,</l>
+               <l>Before his Death t'appoint the Paſchal Feaſt?</l>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:38186:7"/>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>When once the Lamb was ſlain and every door</hi>
+               </l>
+               <l>
+                  <hi>Oth'</hi> Jewiſh <hi>Tribes was ſigned with the gore.</hi>
+               </l>
+               <l>
+                  <hi>The quick-ey'd Angel ſpi'd it out, and ſlew</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Egyptian <hi>Hoſt, but paſſed o're the</hi> Jew.</l>
+               <l>
+                  <hi>Then did the</hi> Jews <hi>conducted by the Hand</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Moſes, <hi>paſs o're ſafe to th' promis'd Land.</hi>
+               </l>
+               <l>
+                  <hi>Not that they did atchieve that land, till they</hi>
+               </l>
+               <l>
+                  <hi>Had trac't their paſſage through the Ruddy Sea,</hi>
+               </l>
+               <l>
+                  <hi>View how this rite was perfected by me.</hi>
+               </l>
+               <l>
+                  <hi>I paſs'd from Life to Death, by ſinners ſlain,</hi>
+               </l>
+               <l>
+                  <hi>I paſs from Death to Life for ſinners gain.</hi>
+               </l>
+               <l>
+                  <hi>Look as the Lamb when on the Altar lay'd,</hi>
+               </l>
+               <l>
+                  <hi>The owners debt was by the Victim pay'd;</hi>
+               </l>
+               <l>
+                  <hi>And ſo the curſe paſs'd o're the ſinners Head,</hi>
+               </l>
+               <l>
+                  <hi>And fell upon the beaſt ſlain in its ſtead;</hi>
+               </l>
+               <l>
+                  <hi>I was that Lamb ti'd faſt upon the Tree,</hi>
+               </l>
+               <l>
+                  <hi>Gods Juſtice like the Angel fell on me,</hi>
+               </l>
+               <l>
+                  <hi>Th'</hi> Egyptian's <hi>ſlain, the</hi> Iſraelite <hi>is free.</hi>
+               </l>
+               <l>
+                  <hi>Paſſing from Life to Death, I made all good,</hi>
+               </l>
+               <l>
+                  <hi>Paſſing from Death to Life is underſtood,</hi>
+               </l>
+               <l>
+                  <hi>The way to bliſs is by and through my Blood.</hi>
+               </l>
+               <l>
+                  <hi>Thus knowing my departure to draw on,</hi>
+               </l>
+               <l>
+                  <hi>I joyn'd the Paſchal-Supper with my own;</hi>
+               </l>
+               <l>
+                  <hi>That both the Type and Antitype may meet,</hi>
+               </l>
+               <l>
+                  <hi>And with a joynt Salute each other greet.</hi>
+               </l>
+               <l>
+                  <hi>The Paſchal-ſupper did commemorate,</hi>
+               </l>
+               <l>
+                  <hi>The ancient thraldom of the</hi> Jewiſh <hi>State.</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:38186:7"/>
+                  <hi>The ſignal was a pure and ſpotleſs Beaſt,</hi>
+               </l>
+               <l>
+                  <hi>Offred in Sacrifice of Eucharist.</hi>
+               </l>
+               <l>
+                  <hi>Nor did they only Sacrifice a Beaſt,</hi>
+               </l>
+               <l>
+                  <hi>But on that Sacrifice they made a Feast.</hi>
+               </l>
+               <l>
+                  <hi>Thus on the Croſs I gave my Fleſh and Blood,</hi>
+               </l>
+               <l>
+                  <hi>Both on the Table are become thy Food.</hi>
+               </l>
+               <l>
+                  <hi>Here thou may'ſt quell thy hunger, quench thy thirſt,</hi>
+               </l>
+               <l>
+                  <hi>Feeding upon the Sacrifice of Chriſt.</hi>
+               </l>
+               <l>
+                  <hi>Since thus for thee I gave my Life and Breath,</hi>
+               </l>
+               <l>
+                  <hi>Forget not the memorials of my Death?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since that my Lord ſo freely did impart,</l>
+               <l>His Blood to me, ſprinkle it on my Heart;</l>
+               <l>That ſo thy Juſtice may the ſignal view,</l>
+               <l>Making my ſin th' <hi>Egyptian,</hi> me the <hi>Jew.</hi>
+               </l>
+               <l>Slay my Firſt born! O thou Firſt-born of God!</l>
+               <l>My mighty ſins with thine Almighty Rod.</l>
+               <l>Drown theſe <hi>Egyptians</hi> in thy Sea of Blood,</l>
+               <l>Then through this Sea, (Lord) make my paſſage good</l>
+               <l>Unto the Land of <hi>Canaan</hi> underſtood.</l>
+               <l>Help me too, through this <hi>Egypt</hi> where I dwell,</l>
+               <l>A Land of darkneſs, thraldom, ſin, and Hell</l>
+               <l>Snce that my Bands are looſed by thy Merit!</l>
+               <l>Guide me Lord, through this deſert by thy Spirit;</l>
+               <l>Let thy Hand be my Covert and my Shrowd,</l>
+               <l>Thy Law my fiery pillar and my Cloud.</l>
+               <l>Let truth that binds our words and actions faſt,</l>
+               <l>Gird up my Loyns, and claſp about my Waſt.</l>
+               <l>
+                  <pb n="10" facs="tcp:38186:8"/>Bind on my feet the Sandals of thy Word,</l>
+               <l>Which to my ſteps alone can light afford.</l>
+               <l>Give me the ſtaff of Faith too, in my Hand,</l>
+               <l>My Foes to conquer, or at leaſt withſtand,</l>
+               <l>Thus fix't, I'le trace my way to th' Holy Land.</l>
+               <l>Leſt in this Pilgrimage I faint and pine,</l>
+               <l>I'le not forget my Viands, Bread and Wine.</l>
+               <l>My dayly wants and needs do prompt me to it,</l>
+               <l>Thy Dying Words (dear Lord) commands me, do it,</l>
+               <l>And am I not a treaſure to attend,</l>
+               <l>The living pledges of my Dying Friend?</l>
+               <l>Thy curſed Death (dear Jeſus) ſhould be mine,</l>
+               <l>And ſhall I balk the bleſſed fruits of thine?</l>
+               <l>Thy Croſs I ſhould have born, tho preſſed down,</l>
+               <l>And ſhall I be compell'd to wear my Crown?</l>
+               <l>Compulſion to a Feaſt ſeems very odd</l>
+               <l>Surely to ſuch whoſe Friend and Food is God.</l>
+               <l>If that the <hi>Jewiſh</hi> Rites and thine accord,</l>
+               <l>I Feaſt not only with, but on my Lord.</l>
+               <l>Thou giv'ſt thy ſelf on Earth, from Heaven above,</l>
+               <l>Thou giv'ſt thy ſelf again, ſuch is thy Love.</l>
+               <l>Shall not thy dying Love on Earth invite me?</l>
+               <l>Shall not thy living Love from Heaven excite me?</l>
+               <l>Canſt thou do more than dye? Do more than love me?</l>
+               <l>Can't bleeding Love, nor feeding love too, move</l>
+               <l>Be angry Lord! and let my ſins at leaſt,</l>
+               <l>Harraſs and toſs me to this bleſſed Feaſt:</l>
+               <l>Then ſhall thy ſacred Body and thy Blood,</l>
+               <l>Be Meat and Med'cine both, Phyſick and Food.</l>
+               <l>
+                  <pb n="11" facs="tcp:38186:8"/>Give me this day my dayly Bread, I cry,</l>
+               <l>Or in this pilgrimage I faint and dye.</l>
+               <l>Why did my Lord and Saviour think it meet</l>
+               <l>To condeſcend to waſh his ſervants Feet?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>To raiſe the price of that contemned grace,</hi>
+               </l>
+               <l>
+                  <hi>Humility, born of a Heavenly Race.</hi>
+               </l>
+               <l>
+                  <hi>If any one had reaſon to be high,</hi>
+               </l>
+               <l>
+                  <hi>And lift his Head above the Tow'ring Sky,</hi>
+               </l>
+               <l>
+                  <hi>None ſhews a better title to't than I.</hi>
+               </l>
+               <l>
+                  <hi>I claim Gods Titles, Worſhip, Nature, Name.</hi>
+               </l>
+               <l>
+                  <hi>God, and Gods Privy-Councellor I am;</hi>
+               </l>
+               <l>
+                  <hi>My Births Divine, my works were works of Wonder:</hi>
+               </l>
+               <l>
+                  <hi>My Life was Lightning, and my Voice was Thunder.</hi>
+               </l>
+               <l>
+                  <hi>I was King too, but yet my power was ſhown,</hi>
+               </l>
+               <l>
+                  <hi>In Kindneſs, Love, and Courteſy alone.</hi>
+               </l>
+               <l>
+                  <hi>Great was my Works, as not to be withſtood<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Yet great in nothing more than doing good.</hi>
+               </l>
+               <l>
+                  <hi>I raiſe the Dead, tho Dead to worldly pelf;</hi>
+               </l>
+               <l>
+                  <hi>I Dy'd unto the VVorld, and to my Self.</hi>
+               </l>
+               <l>
+                  <hi>For when my Miracles came to be known,</hi>
+               </l>
+               <l>
+                  <hi>I ſtopt mens mouths, together with my own.</hi>
+               </l>
+               <l>
+                  <hi>I rais'd the Sick, and ſtill'd the Winds beſide;</hi>
+               </l>
+               <l>
+                  <hi>Yet knew not how to raiſe a puff of pride.</hi>
+               </l>
+               <l>
+                  <hi>When I was once transfigured on high,</hi>
+               </l>
+               <l>
+                  <hi>Both</hi> Moſes <hi>and</hi> Elias <hi>ſtanding by;</hi>
+               </l>
+               <l>
+                  <hi>The only news they brought me, I muſt Dye.</hi>
+               </l>
+               <l>
+                  <pb n="12" facs="tcp:38186:9"/>
+                  <hi>When in a King like manner once I came</hi>
+               </l>
+               <l>
+                  <hi>Riding in Triumph to</hi> Jeruſalem;</l>
+               <l>
+                  <hi>My joys were ſoon allayed by my fears,</hi>
+               </l>
+               <l>
+                  <hi>For then I wet my Palms with dewy Tears.</hi>
+               </l>
+               <l>
+                  <hi>'Twas then and there I was to be a King,</hi>
+               </l>
+               <l>
+                  <hi>But Conſecrated ſuch by Suffering.</hi>
+               </l>
+               <l>
+                  <hi>My Throne was plac'd betwixt the Croſſes Horns;</hi>
+               </l>
+               <l>
+                  <hi>My Scepter was a Reed, my Crown of Thorns;</hi>
+               </l>
+               <l>
+                  <hi>My Robes were Mocks, my Acclamations, Scorns.</hi>
+               </l>
+               <l>
+                  <hi>Thus both my Life and Death commends to thee,</hi>
+               </l>
+               <l>
+                  <hi>This Godlike vertue of Humility?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Could man but know himſelf, himſelf he'd know</l>
+               <l>To be a ſtinking Dunghil clad with Snow.</l>
+               <l>Vile Earth without, and viler Soul within,</l>
+               <l>A mighty nothing, ſuperadded ſin.</l>
+               <l>Methinks the ſin of pride ſhould find no place,</l>
+               <l>Nor yet Humility become a grace</l>
+               <l>In man, whoſe ſinful nature is ſo baſe.</l>
+               <l>But when I ſee what once my Lord became,</l>
+               <l>I little, nothing worſe, than nothing am.</l>
+               <l>Ne're do we ſeem ſo little in our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye,</l>
+               <l>As when we look down on our ſelves from high.</l>
+               <l>When I conſider what my Lord hath done,</l>
+               <l>I melt away like Snow-balls in the Sun.</l>
+               <l>When by thy light, and b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy ſpritely Art,</l>
+               <l>I dig to th' center of my ſinful Heart.</l>
+               <l>
+                  <pb n="13" facs="tcp:38186:9"/>I am all fear, all dread, all in a maze,</l>
+               <l>Viewing the grizley Spirits which I raiſe.</l>
+               <l>But when I ſee a Nature ſo Divine,</l>
+               <l>Exerting ſo much goodneſs once in mine;</l>
+               <l>How Heaven courts Earth, and God becomes our brother,</l>
+               <l>How one Abyſs doth call upon another;</l>
+               <l>Here ſelf diſſolves, ſtruck by ſuch potent Charms,</l>
+               <l>Expiring, like to <hi>Moſes,</hi> in Gods Arms.</l>
+               <l>Here pride, that brat of darkneſs and of night,</l>
+               <l>Not daring to behold this glorious ſight;</l>
+               <l>Makes off, like ſpirits at the day-brake light.</l>
+               <l>Oh! let me ſee my Face in this thy Glaſs!</l>
+               <l>Shall man be proud, when God ſo humble was?</l>
+               <l>Since that the meaneſt ſervices were thine,</l>
+               <l>I will not grudg (my Lord) ſhall make them mine,</l>
+               <l>Whate're thy hand hath touched is Divine</l>
+               <l>I'le go from houſe to houſe, from door to door,</l>
+               <l>Healing thy ſick, and viſiting thy poor.</l>
+               <l>Since in theſe Offices I need not fear</l>
+               <l>To meet a Friend, for I ſhall meet thee there.</l>
+               <l>VVhy is't Recorded (Lord) why is it ſaid,</l>
+               <l>That thou for thirty pieces waſt betray'd?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Thou ſold'ſt thy ſelf to ſin; to ſet thee free,</hi>
+               </l>
+               <l>
+                  <hi>The price of ſlaves was judg'd the price of me.</hi>
+               </l>
+               <l>
+                  <hi>As in a Glaſs behold, my Child, and view,</hi>
+               </l>
+               <l>
+                  <hi>The baſeneſs of thy ſin, and thraldom too.</hi>
+               </l>
+               <l>
+                  <pb n="14" facs="tcp:38186:10"/>
+                  <hi>Jeſus thy Lord, ſetting ſo vile a rate on,</hi>
+               </l>
+               <l>
+                  <hi>Making thy Soul do Homage unto Satan.</hi>
+               </l>
+               <l>Pagans <hi>a Drunken</hi> Bacchus <hi>did adore,</hi>
+               </l>
+               <l>Mars, Mammon, Pluto, Venus <hi>too, a Whore.</hi>
+               </l>
+               <l>
+                  <hi>Who caſts off theſe by his Baptiſmal vow,</hi>
+               </l>
+               <l>
+                  <hi>Tho he thinks not, he may adore them now.</hi>
+               </l>
+               <l>
+                  <hi>Uncleanneſs, rapine, riot, and exceſs;</hi>
+               </l>
+               <l>Mars, Venus, Pluto, Bacchus <hi>was no leſs.</hi>
+               </l>
+               <l>
+                  <hi>And all but Devils in a Godlike dreſs.</hi>
+               </l>
+               <l>
+                  <hi>The Chriſtian ſins with</hi> Pagan <hi>rites accord,</hi>
+               </l>
+               <l>
+                  <hi>Both Tribute pay to Satan as their Lord.</hi>
+               </l>
+               <l>
+                  <hi>Tho ſinners aim at nought but pleaſing profit;</hi>
+               </l>
+               <l>
+                  <hi>The Devils ſervice is the meaning of it.</hi>
+               </l>
+               <l>Pagans <hi>in all their ſuperſtitious evils,</hi>
+               </l>
+               <l>
+                  <hi>They meant a God, tho Worſhipt none but Devils.</hi>
+               </l>
+               <l>
+                  <hi>Who owns himſelf a Chriſtian by my Name,</hi>
+               </l>
+               <l>
+                  <hi>And breaks my Precepts, does the very ſame:</hi>
+               </l>
+               <l>
+                  <hi>When as I was about to be betray'd,</hi>
+               </l>
+               <l>
+                  <hi>Lord is it I? The Traytor</hi> Judas <hi>ſaid;</hi>
+               </l>
+               <l>
+                  <hi>Nor was that wretch ever ſo void of ſence,</hi>
+               </l>
+               <l>
+                  <hi>To think my Perſon worth but thirty Pence.</hi>
+               </l>
+               <l>
+                  <hi>'Twas not his Reaſon, but his Avarice,</hi>
+               </l>
+               <l>
+                  <hi>That on his Maſter ſet ſo low a price.</hi>
+               </l>
+               <l>
+                  <hi>'Twas luſt that did above his Lord prevail,</hi>
+               </l>
+               <l>
+                  <hi>So the beam lean'd too much to th' weakeſt ſcale.</hi>
+               </l>
+               <l>
+                  <hi>Jeſus more worth than worlds, a</hi> Judas <hi>cryes,</hi>
+               </l>
+               <l>
+                  <hi>Rather than luſt be ſtarved, Jeſus Dyes.</hi>
+               </l>
+               <l>
+                  <hi>Such is the nature of a ſin when bred,</hi>
+               </l>
+               <l>
+                  <hi>VVhat cannot once be cured, muſt be fed.</hi>
+               </l>
+               <l>
+                  <pb n="15" facs="tcp:38186:10"/>
+                  <hi>VVhoſe heart the world doth ſway, and that his bliſs is,</hi>
+               </l>
+               <l>
+                  <hi>He'le ſell me</hi> (Judas <hi>like) for thirty pieces.</hi>
+               </l>
+               <l>
+                  <hi>Tho in Exchange he doth impart a kiſs,</hi>
+               </l>
+               <l>
+                  <hi>I need not tell thee who his Maſter is.</hi>
+               </l>
+               <l>
+                  <hi>For ſo in ſecret Caverns Serpents lurk,</hi>
+               </l>
+               <l>
+                  <hi>Like hidden Springs, ſetting the Wheels on work.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>In Lawful things we moſt of all offend,</l>
+               <l>When our deſires want meaſure both, and end:</l>
+               <l>Whoſe ſwelling mind his Fortunes doth out go,</l>
+               <l>Five Hundred pounds is not ſo much as two.</l>
+               <l>Proud and ambitious Minds will draw a Sword</l>
+               <l>For that which meek men count not worth a Word.</l>
+               <l>The ſober Perſon dines without a wiſh,</l>
+               <l>When Luſt is pined at a double Diſh.</l>
+               <l>Ne'r was there Judg that dare to be unjuſt,</l>
+               <l>Were he not bribed otherwiſe by Luſt:</l>
+               <l>None covets ſin, but luſt for to fulfil,</l>
+               <l>And ſo ſins willingly againſt his Will.</l>
+               <l>Down to my mean Eſtate, Lord bend my mind!</l>
+               <l>And let them both like Warp and Woof combin'd:</l>
+               <l>Sleeping ſecurely thus on Natures Lap,</l>
+               <l>I'm ſafe from Satans wiles and Fortunes Clap.</l>
+               <l>Why did that Traytor wound thee with a Kiſs,</l>
+               <l>And ſuck rank Poyſon from the Streams of Bliſs?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>To expiate thy foul Hypocriſie,</hi>
+               </l>
+               <l>
+                  <hi>Which doth at once betray thy God and me:</hi>
+               </l>
+               <l>
+                  <pb n="16" facs="tcp:38186:11"/>
+                  <hi>My fleſh it was a Mirror, to expreſs</hi>
+               </l>
+               <l>
+                  <hi>Gods Juſtice, Goodneſs, Truth and Righteouſneſs:</hi>
+               </l>
+               <l>
+                  <hi>Who makes a breach in any one of theſe,</hi>
+               </l>
+               <l>
+                  <hi>Tho a Diſciple, yet a Judas is;</hi>
+               </l>
+               <l>
+                  <hi>Who in my Goſpel Precepts doth be-lye me,</hi>
+               </l>
+               <l>
+                  <hi>In all my Goſpel Truths he will deny me:</hi>
+               </l>
+               <l>
+                  <hi>He will not dye that dares not to be juſt:</hi>
+               </l>
+               <l>
+                  <hi>He'l ne'r forſake his life that wont his luſt:</hi>
+               </l>
+               <l>
+                  <hi>Who ſhipwracks Conſcience, as the Scripture ſaith;</hi>
+               </l>
+               <l>
+                  <hi>Muſt cast away the Anchor of his <note n="*" place="bottom">1 Tim. 1.19.</note> Faith,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe formal Chriſtian only may as well,</hi>
+               </l>
+               <l>
+                  <hi>(Bating the name of Hypocrite and Hell)</hi>
+               </l>
+               <l>
+                  <hi>Become a</hi> Jew, <hi>a</hi> Turk, <hi>an</hi> Infidel;</l>
+               <l>
+                  <hi>He is my Friend, by the ſame reaſon ſo,</hi>
+               </l>
+               <l>
+                  <hi>As</hi> Turk <hi>and</hi> Jew, <hi>and</hi> Pagan <hi>is my Fo;</hi>
+               </l>
+               <l>
+                  <hi>And tho he wears my Coat, as</hi> Judas <hi>Kiſſes,</hi>
+               </l>
+               <l>
+                  <hi>When th' Faſhion alters, tears it all in pieces:</hi>
+               </l>
+               <l>
+                  <hi>They who would make me King, did moſt deride me;</hi>
+               </l>
+               <l>
+                  <hi>Who cri'd Hoſanna most, they crucifi'd me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Curſed Hypocriſie! that would outvye</l>
+               <l>The God of Wiſdom, Truth, Sincerity:</l>
+               <l>Daring to kiſs his Face, in's Courts to dwell,</l>
+               <l>More diſtant from him, than is Heav'n from Hell:</l>
+               <l>So Apes are counted moſt deformed Creatures,</l>
+               <l>VVho are not men, but would be men in features.</l>
+               <l>Grant I may love thee, Lord, by being like thee,</l>
+               <l>That I may ne'r at once both kiſs and ſtrike thee:</l>
+               <l>
+                  <pb n="17" facs="tcp:38186:11"/>Let me deteſt all ſin in every part,</l>
+               <l>That I may ne'r be <hi>Judas</hi> in my Heart.</l>
+               <l>The Garden is a Seat of Pleaſure; why</l>
+               <l>VVas it the Scene of thy ſad Tragedy?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Here in a Garden I aton'd that Sin</hi>
+               </l>
+               <l>
+                  <hi>Which in a Garden you know did begin.</hi>
+               </l>
+               <l>
+                  <hi>For there we find the Tree of Good and Evil,</hi>
+               </l>
+               <l>
+                  <hi>Which</hi> Adam <hi>eat of, tempted by the Devil:</hi>
+               </l>
+               <l>
+                  <hi>Here I engag'd that Tempter in the Field,</hi>
+               </l>
+               <l>
+                  <hi>Where firſt he made thy Parents for to yield:</hi>
+               </l>
+               <l>
+                  <hi>Here my imbitter'd Cup did firſt confute</hi>
+               </l>
+               <l>
+                  <hi>The fancied Pleaſures of Forbidden Fruit.</hi>
+               </l>
+               <l>
+                  <hi>That Curſe of ſweat when man procures his food</hi>
+                  <note n="*" place="bottom">Gen. 3.17.</note>,</l>
+               <l>
+                  <hi>I here aton'd by ſweating drops of Blood.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Enough my Lord! thou'ſt fully paid my Scores,</l>
+               <l>Fitting thy Plaiſters wiſely to my Sores:</l>
+               <l>Approach you hither all you idle Drones;</l>
+               <l>View how your Lord both ſweats, and ſighs, and groans;</l>
+               <l>Behold you ſwearers how he faints and ſwoons,</l>
+               <l>Under the burthen of your curſed VVounds:</l>
+               <l>View how his Blood and Moiſture is ſunk up,</l>
+               <l>By drinking of the Drunkards poiſon'd Cup.</l>
+               <l>Come here my Luſts! and dare to taſte no more</l>
+               <l>O'th' Fruit' the Tree of Good and Evil bore,</l>
+               <l>Y' have taſted of the Apple, view the Core!</l>
+               <l>
+                  <pb n="18" facs="tcp:38186:12"/>Hear, O ſupine Devotion, his loud cry:</l>
+               <l>So ſtrong, ſo fervent, that it pierc'd the Sky;</l>
+               <l>His very Prayer was an Agony.</l>
+               <l>VVhy didſt thou deprecate thy Cup, and ſay,</l>
+               <l>Father, if poſſible, paſs it away?</l>
+               <l>'Twas thy Baptiſmal Cup thou long'ſt for, how</l>
+               <l>Could'ſt thou deſire it once, and dread it now?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Oh 'twas a dreadful Cup as ne'r was ſeen,</hi>
+               </l>
+               <l>
+                  <hi>Poiſon'd with Wrath of God, and dregs of Sin:</hi>
+               </l>
+               <l>
+                  <hi>The greateſt ſorrow and the quickeſt ſenſe,</hi>
+               </l>
+               <l>
+                  <hi>Doth ſet the higher Price on Patience:</hi>
+               </l>
+               <l>
+                  <hi>Once to deſire it, now to drink it loath,</hi>
+               </l>
+               <l>
+                  <hi>Doth ſignifie my love and ſorrow both.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Shall I take pleaſure in thoſe cups and cates,</l>
+               <l>VVhich my dear Lord ſo dreads and deprecates?</l>
+               <l>Shall I delight in that by which he dies?</l>
+               <l>And ſport with ponyards, and with Agonies?</l>
+               <l>Grant that thy Cup, more dreadful than thy Croſs is,</l>
+               <l>May ſour my ſins, and ſweeten all my loſſes:</l>
+               <l>Suffer me, Lord, thy love for to controul;</l>
+               <l>Thou ſuffereſt in thy Body, why in Soul?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Sin from thy ſoul, my child, did firſt begin;</hi>
+               </l>
+               <l>
+                  <hi>My ſorrows did commence as did thy ſin:</hi>
+               </l>
+               <l>
+                  <pb n="19" facs="tcp:38186:12"/>
+                  <hi>And why I ſweat ſuch drops of ſuch a ſort,</hi>
+               </l>
+               <l>
+                  <hi>The burden of thy ſins muſt anſwer for't.</hi>
+               </l>
+               <l>
+                  <hi>View how my ſoul's ſurrounded for thy ſin,</hi>
+               </l>
+               <l>
+                  <hi>Sweats Blood without, and feels a Hell within.</hi>
+               </l>
+               <l>
+                  <hi>Such anguiſh as is never to be found,</hi>
+               </l>
+               <l>
+                  <hi>Sweat without Heat, and Blood without a Wound:</hi>
+               </l>
+               <l>
+                  <hi>With God, with Sin, with Satan did I ſtrive,</hi>
+               </l>
+               <l>
+                  <hi>Mine was the Life of Death, as Death of Life;</hi>
+               </l>
+               <l>
+                  <hi>My Death was one, yet in that all may be;</hi>
+               </l>
+               <l>
+                  <hi>Who di'd before and after, di'd in me:</hi>
+               </l>
+               <l>
+                  <hi>Well may my Blood be ſqueez'd through all my Pores,</hi>
+               </l>
+               <l>
+                  <hi>I had as many deaths, as I had Doors.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>And ſhall my ſins (dear Lord) increaſe thy ſtore,</l>
+               <l>And cauſe thee for to dye ten Thouſand more?</l>
+               <l>Sin robb'd thee of thy life; and 'tis as true,</l>
+               <l>It kills thy death, and ſtobs thy kindneſs too:</l>
+               <l>Mercy, Love, Truth, and Goodneſs, are a good</l>
+               <l>More dear to thee, than was thy Fleſh and Blood:</l>
+               <l>This thou aſſum'ſt the other to diſplay,</l>
+               <l>And yet in theſe thou ſuffer'dſt every day.</l>
+               <l>Thy fleſh ne'r felt ſo much from Daggers keen,</l>
+               <l>As did thy Heart and Mind feel by my ſin.</l>
+               <l>O curſed ſin! far harder to be born,</l>
+               <l>Than VVhips, than Deaths, than Daggers, Crowns of Thorn.</l>
+               <l>VVhy did the <hi>Jews,</hi> all in a ſpiteful Vogue,</l>
+               <l>Prefer before thee, <hi>Barabbas,</hi> a Rogue?</l>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:38186:13"/>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>To ſhew the ſinners choice in every Vice,</hi>
+               </l>
+               <l>
+                  <hi>Wh' on God and Conſcience ſets ſo low a Price,</hi>
+               </l>
+               <l>
+                  <hi>To gain his Luſt, will loſe bis Paradiſe.</hi>
+               </l>
+               <l>
+                  <hi>The value of a ſoul, wer't to be ſold,</hi>
+               </l>
+               <l>
+                  <hi>Weighs down a world, yea tho a world of Gold.</hi>
+               </l>
+               <l>
+                  <hi>Gods Glory's more to be eſteemed than</hi>
+               </l>
+               <l>
+                  <hi>Ten Thouſand worlds, than Millions of Men:</hi>
+               </l>
+               <l>
+                  <hi>Put all into the ſcales, they wont outpoiſe</hi>
+               </l>
+               <l>
+                  <hi>The wilful madneſs of the ſinners choice.</hi>
+               </l>
+               <l>
+                  <hi>There's no unjuſt man ſins, but that in ſinning</hi>
+               </l>
+               <l>
+                  <hi>He ſtabs the mighty God that is within him:</hi>
+               </l>
+               <l>
+                  <hi>Luſt stares you in the face, heard in its groans,</hi>
+               </l>
+               <l>
+                  <hi>Felt by its fires, ſmelt in its rotten bones:</hi>
+               </l>
+               <l>
+                  <hi>The Drunkard of all ſinners not the leaſt,</hi>
+               </l>
+               <l>
+                  <hi>Tho God hath ſtampt his image in his breaſt,</hi>
+               </l>
+               <l>
+                  <hi>Changes that coin, and only buys a beaſt.</hi>
+               </l>
+               <l>
+                  <hi>The Swearer ſins not at the common rate,</hi>
+               </l>
+               <l>
+                  <hi>Swallowing the Devils Hook without a Bait,</hi>
+               </l>
+               <l>
+                  <hi>Pawning his ſoul but for a fruitleſs evil,</hi>
+               </l>
+               <l>
+                  <hi>And not ſo much as cheapning with with the Devil.</hi>
+               </l>
+               <l>
+                  <hi>Who fears man more than God, I'l anſwer for't,</hi>
+               </l>
+               <l>
+                  <hi>He kills himſelf for fear of being hurt.</hi>
+               </l>
+               <l>
+                  <hi>Thus through the ſinners choice it comes to paſs,</hi>
+               </l>
+               <l>
+                  <hi>Each ſin crys out, Not Him, but</hi> Barabbas.</l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>The ſinner's wretched choice doth far outvy,</l>
+               <l>What's ſaid in Holy VVrit, or Hyſtory.</l>
+               <l>
+                  <pb n="21" facs="tcp:38186:13"/>
+                  <hi>Eſau</hi> ſtands fool on record for his dotage,</l>
+               <l>Selling his Birthright for a meſs of Pottage.</l>
+               <l>
+                  <hi>Glaucus</hi> chang'd Gold for Braſs; <hi>Crates</hi> they ſay,</l>
+               <l>To brave his folly, caſt his Gold away.</l>
+               <l>The <hi>Romans</hi> fram'd an Altar to apppeaſe</l>
+               <l>A feaveriſh God, worſhipping a Diſeaſe.</l>
+               <l>The Sinners folly doth them all excel,</l>
+               <l>Exchanging Life for Death, and Heav'n for Hell.</l>
+               <l>If Souls more worth than Worlds, infer from hence</l>
+               <l>How cheap the're ſold, when ſold for thirty Pence.</l>
+               <l>Nay, for a filthy Luſt, when paſs'd and gone</l>
+               <l>Not to be found but in a Sigh or Groan.</l>
+               <l>Is this the Paramour, that moſt doth pleaſe us?</l>
+               <l>Is this the <hi>Barabbas</hi> that Vyes with Jeſus?</l>
+               <l>Is there ſuch charming Magick in its hue,</l>
+               <l>As to be Wed without a Dowry too?</l>
+               <l>Nay, pay a price down ſor't, and ſuch a price,</l>
+               <l>As Health, Wealth, Life, Soul, Bliſs and Paradice.</l>
+               <l>Since thou doſt guard the Tree of Life ſo well</l>
+               <l>With Cherubims of Death, and Flames of Hell,</l>
+               <l>How can I break the Fence, ſince to be bleſt,</l>
+               <l>It is my Duty both, and Intereſt.</l>
+               <l>Why waſt thou ſtript (my Lord) I cannot fathom?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>To take on me the ſtate of ſinning</hi> Adam:</l>
+               <l>
+                  <hi>He and thou naked were, I naked am,</hi>
+               </l>
+               <l>
+                  <hi>That thou may'ſt have my Robes to hide thy ſhame.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:38186:14"/>
+               <speaker>SOUL.</speaker>
+               <l>O Clothe me with the Robe of thy great Merit;</l>
+               <l>Adorn me with the Graces of thy Spirit.</l>
+               <l>Why waſt thou bound (my Lord) why whipt with Cord?</l>
+               <l>My Faith begins to fail me, help me Lord!</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Was</hi> Adams <hi>ſin nought in reſpect to thee,</hi>
+               </l>
+               <l>
+                  <hi>Who robb'd Gods Orchard, the forbidden Tree?</hi>
+               </l>
+               <l>
+                  <hi>Or did that Fruit ne're ſet thy Teeth on Edge?</hi>
+               </l>
+               <l>
+                  <hi>Or</hi> Achan-<hi>like, did'ſt never ſteal a Wedg?</hi>
+               </l>
+               <l>
+                  <hi>I for thy theft, was like a thief faſt bound;</hi>
+               </l>
+               <l>
+                  <hi>Not guilty, but for thee was guilty found.</hi>
+               </l>
+               <l>
+                  <hi>Thy greater ſins did Stob me to the heart;</hi>
+               </l>
+               <l>
+                  <hi>The leſſer were thoſe Whips that made me ſmart,</hi>
+               </l>
+               <l>
+                  <hi>Cauſing ſuch ghaſtly Wounds in every part.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Let me not cheriſh, Lord, that viprous brood,</l>
+               <l>Which fed upon the reekings of thy Blood.</l>
+               <l>Oh, wound my ſins, which caus'd ſuch wounds in thee,</l>
+               <l>Then heal thoſe wounds thy love hath made in me.</l>
+               <l>Why waſt thou ſpit on (Lord) why mockt, why made</l>
+               <l>A Prophet, Prieſt and King in Maſquerade.</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Learn where the ſin of ſin doth chiefly lye:</hi>
+               </l>
+               <l>
+                  <hi>Offring affront to th' glorious Majeſty.</hi>
+               </l>
+               <l>
+                  <pb n="23" facs="tcp:38186:14"/>
+                  <hi>Profaneſs lays him open to Diſgrace,</hi>
+               </l>
+               <l>
+                  <hi>And Malice ſpits him in the very face.</hi>
+               </l>
+               <l>
+                  <hi>Drunkards deface his Image, ſpoil his Creature;</hi>
+               </l>
+               <l>
+                  <hi>Luſt would aſſoil his pure and ſpotleſs Nature.</hi>
+               </l>
+               <l>
+                  <hi>The unbeliever fain would tye his hands,</hi>
+               </l>
+               <l>
+                  <hi>From puniſhing the breach of his commands.</hi>
+               </l>
+               <l>
+                  <hi>And what Injuſtice does, you ſoon may gueſs;</hi>
+               </l>
+               <l>
+                  <hi>It ſtrips him of his Robes of Righteouſneſs:</hi>
+               </l>
+               <l>
+                  <hi>In Robes of Scarlet, Scoffers make him ſtand,</hi>
+               </l>
+               <l>
+                  <hi>And puts a Reeden Scepter in his hand.</hi>
+               </l>
+               <l>
+                  <hi>Who with inflamed Blood, revenge doth ſeek,</hi>
+               </l>
+               <l>
+                  <hi>Doth ſmite his bleſſed Maker on the Cheek:</hi>
+               </l>
+               <l>
+                  <hi>The Proud Crown him with Thorns; the Swearers part,</hi>
+               </l>
+               <l>
+                  <hi>Is for to ſtrike his Ponyard through his heart.</hi>
+               </l>
+               <l>
+                  <hi>All ſin doth mean the ſame to th' Deity</hi>
+               </l>
+               <l>
+                  <hi>What the Jews meant, and did effect in me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>To affront my God, it is the Sinners ſport;</l>
+               <l>God may be injur'd, true! can he be hurt?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>I was both God and Man, conclude thou then,</hi>
+               </l>
+               <l>
+                  <hi>What hurt ſin brought to God, what hurt to men.</hi>
+               </l>
+               <l>
+                  <hi>My Body felt its pangs, my Soul its fears,</hi>
+               </l>
+               <l>
+                  <hi>My Eyes its taunts, its mocks and ſcoffs my Ears:</hi>
+               </l>
+               <l>
+                  <hi>My head the prickled Crown, my Cheeks the nips;</hi>
+               </l>
+               <l>
+                  <hi>My Hands and Feet the Nails, my Back the Whipts;</hi>
+               </l>
+               <l>
+                  <hi>'Tis ſtrange, but true, what cannot be deni'd,</hi>
+               </l>
+               <l>
+                  <hi>God cannot dye, yet t'was a God that dy'd.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:38186:15"/>
+               <speaker>SOUL.</speaker>
+               <l>I clearly ſee my ſins do wound my Lord,</l>
+               <l>Without a Trope, with and without a Sword.</l>
+               <l>Curſt Serpent ſin, ſince nought can quench his thirſt,</l>
+               <l>Till he's imbib'd the precious Blood of Chriſt.</l>
+               <l>What Sinners make ſo light of, by their leaves,</l>
+               <l>It preſs'd God down, like as a Cart with Sheaves:</l>
+               <l>Nay, preſs'd forth Blood, when laid upon his back;</l>
+               <l>Poor Wretch am I, ſhall ne're a heartſtring crack?</l>
+               <l>Shall both thy Head and ſacred Temples reek,</l>
+               <l>And not a tear bedew my withered Cheek.</l>
+               <l>Indeared Mothers, when they ſee a Dart</l>
+               <l>Levelled at the tender Infants Heart;</l>
+               <l>They Cry, they Screek, <hi>I Faint, I Swound, I Dye;</hi>
+               </l>
+               <l>So cannot I my Lord, ſo cannot I;</l>
+               <l>Yet I'm reſolv'd theſe ſins ſhall ne're be mine;</l>
+               <l>I'le ſpit them in the face, who ſpat in thine.</l>
+               <l>Grant that the Spittle, Malice caſt on thee;</l>
+               <l>May wipe all foul Aſperſions off from me.</l>
+               <l>But now again, my Lord, I'm at a loſs,</l>
+               <l>What meant thy carrying up and down thy Croſs?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>The</hi> Pagans, <hi>when a Judgment ſtroke a Town,</hi>
+               </l>
+               <l>
+                  <hi>Did lead their Sacrifices up and down</hi>
+               </l>
+               <l>
+                  <hi>T'appeaſe their angry Gods; 'tis alſo ſaid,</hi>
+               </l>
+               <l>Iſaac <hi>did bear the Wood on which he's laid.</hi>
+               </l>
+               <l>Simon <hi>and I, bearing that weighty Tree,</hi>
+               </l>
+               <l>
+                  <hi>Tells my Diſciples what t'expect from me.</hi>
+               </l>
+               <l>
+                  <pb n="25" facs="tcp:38186:15"/>
+                  <hi>Come on my Child, with an undaunted heart,</hi>
+               </l>
+               <l>
+                  <hi>Since I go firſt, and alſo bear a part.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Can I refuſe, thy bleſſed Yoak to take,</l>
+               <l>Since born by thee, and fitted to my Neck?</l>
+               <l>Thy Cup was full of the red Wine of Sadneſs;</l>
+               <l>Thou fil'ſt it up to me with Oyl of gladneſs.</l>
+               <l>Thy Croſs was fixt on <hi>Golgotha,</hi> a place</l>
+               <l>Where God from thee withheld his bleſſed Face.</l>
+               <l>Mine thou haſt fixt on Mount <hi>Moriah</hi>'s green,</l>
+               <l>The place where God once promis'd to be ſeen<note n="*" place="bottom">Gen 22.</note>.</l>
+               <l>A Crown of Thorns thy ſacred head encloſes;</l>
+               <l>Thou wear'ſt the Prickles, and I wear the Roſes.</l>
+               <l>Truth Lord! who follows thee, ſhall have no loſs:</l>
+               <l>The Croſs bears him, who ever bears the Croſs:</l>
+               <l>Is it unlawful, Lord, for me to ſay,</l>
+               <l>Why was thy Croſs fixt on a <hi>Golgotha?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>This was the ſeal Tradition would maintain,</hi>
+               </l>
+               <l>
+                  <hi>Where</hi> Iſaac <hi>once had like to have been ſlain.</hi>
+               </l>
+               <l>
+                  <hi>The place of Dead mens Skulls; 'tis alſo ſaid</hi>
+               </l>
+               <l>
+                  <hi>It was the place where</hi> Adam<hi>'s buried.</hi>
+               </l>
+               <l>
+                  <hi>This being ſo, as't hath been ſaid of old,</hi>
+               </l>
+               <l>
+                  <hi>Then Death was Conquer'd in his Fort and Hold.</hi>
+               </l>
+               <l>
+                  <hi>Man found out ſin, by ſin Death firſt came in;</hi>
+               </l>
+               <l>
+                  <hi>Sin brought forth Death, and Death hath conquer'd ſin.</hi>
+               </l>
+               <l>
+                  <hi>Who by the Serpents ſting hath got a hurt,</hi>
+               </l>
+               <l>
+                  <hi>The Oyl of Serpents is a plaiſter for't.</hi>
+               </l>
+               <l>
+                  <pb n="26" facs="tcp:38186:16"/>
+                  <hi>'Twas humane Fleſh that caus'd the firſt to dye;</hi>
+               </l>
+               <l>
+                  <hi>So humane Fleſh obtain'd the Victory.</hi>
+               </l>
+               <l>
+                  <hi>Under my Croſs Death like a Victim lies,</hi>
+               </l>
+               <l>
+                  <hi>And as a Sacrifice o'th' Altar dyes.</hi>
+               </l>
+               <l>
+                  <hi>So that of</hi> Golgotha <hi>it may be ſaid,</hi>
+               </l>
+               <l>
+                  <hi>Here is the place where Death lies buried.</hi>
+               </l>
+               <l>
+                  <hi>Courage my Soul! Death's done his utmoſt ſpite;</hi>
+               </l>
+               <l>
+                  <hi>The Serpent he may hiſs, but cannot bite.</hi>
+               </l>
+               <l>
+                  <hi>Spred his cold hand he may, and preſs upon</hi>
+               </l>
+               <l>
+                  <hi>Thy ſpriteleſs Corps, but cannot break a Bone.</hi>
+               </l>
+               <l>
+                  <hi>Hence Death, a dark and ſhady Entry call,</hi>
+               </l>
+               <l>
+                  <hi>Bending thy footſteps to a ſpacious Hall.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>When through Death's valley I ſhall bend my way,</l>
+               <l>Thy Croſs ſhall be my Rod, my Staff, my Stay:</l>
+               <l>Can'ſt thou, my Soul, refuſe to lay thy Head</l>
+               <l>Within that place where Jeſus made his Bed?</l>
+               <l>Once 'twas a <hi>Golgotha</hi> of ſtench and ſmell;</l>
+               <l>The <hi>Pagans</hi> call'd it <hi>Hades,</hi> the <hi>Jews</hi> ſay <hi>Hell.</hi>
+               </l>
+               <l>Since Chriſt lay there, and from thence did ariſe,</l>
+               <l>Call it from hence, the Gate of Paradiſe.</l>
+               <l>Chide not (dear Lord) my curioſity;</l>
+               <l>Why was thy Croſs exalted up on high?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>It was Gods penal Law, and his Decree</hi>
+                  <note n="*" place="bottom">
+                     <hi>Deut.</hi> 27.26.</note>;</l>
+               <l>
+                  <hi>Curſed is every one that hangs o'th' Tree.</hi>
+               </l>
+               <l>
+                  <pb n="27" facs="tcp:38186:16"/>
+                  <hi>I to atone thy Sin, thy Curſe, thy Shame,</hi>
+               </l>
+               <l>
+                  <hi>Did dye that Death which did atteſt the ſame.</hi>
+               </l>
+               <l>
+                  <hi>Altho it was a Roman Death I dy'd;</hi>
+               </l>
+               <l>
+                  <hi>Yet an All-ſeeing Eye did ſo provide,</hi>
+               </l>
+               <l>
+                  <hi>That the curſe ſhould contain that Ignomy</hi>
+               </l>
+               <l>
+                  <hi>The Law pronounc't to him that hung oth' Tree.</hi>
+               </l>
+               <l>
+                  <hi>Haſt thou not read the place, where 'tis rehearſed,</hi>
+               </l>
+               <l>And they ſhall look on him whom they have pierced.</l>
+               <l>
+                  <hi>By this 'tis plain, my Croſs I was to bear,</hi>
+               </l>
+               <l>
+                  <hi>And dye that Death, whoſe piercing was by Spear.</hi>
+               </l>
+               <l>
+                  <hi>When th' Lamb of old was to the Altar ti'd,</hi>
+               </l>
+               <l>
+                  <hi>Mounted aloft, and then upon it di'd;</hi>
+               </l>
+               <l>
+                  <hi>My Croſſes Exaltations verifi'd.</hi>
+               </l>
+               <l>
+                  <hi>That ſacrificed Ram (as 'tis related</hi>
+                  <note n="*" place="bottom">Exodus 29.27.</note>,</l>
+               <l>
+                  <hi>At the time when the Prieſt was conſecrated,</hi>
+               </l>
+               <l>
+                  <hi>'Twas waved to and fro, heav'd up and hurld,</hi>
+               </l>
+               <l>
+                  <hi>Pointed to the four corners of the World.</hi>
+               </l>
+               <l>
+                  <hi>When I was conſecrated on the Tree,</hi>
+               </l>
+               <l>
+                  <hi>That Jewiſh rite was well becoming me:</hi>
+               </l>
+               <l>
+                  <hi>For ſo my Croſs was mounted up on high,</hi>
+               </l>
+               <l>
+                  <hi>That all the World may their Redeemer ſpy.</hi>
+               </l>
+               <l>
+                  <hi>Thus plac't 'twixt Earth, Gods footſtool and Heavens Throne,</hi>
+               </l>
+               <l>
+                  <hi>To reconcile both God and Man in one.</hi>
+               </l>
+               <l>
+                  <hi>The Brazen Serpent in the Deſert was</hi>
+               </l>
+               <l>
+                  <hi>A Type of me, relating to my Croſs:</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Jews <hi>being ſtung with Serpents, were made whole,</hi>
+               </l>
+               <l>
+                  <hi>By a braſs Serpent fixed on a Pole</hi>
+               </l>
+               <l>
+                  <hi>To cure the Wound, caus'd by that curſed Creature;</hi>
+               </l>
+               <l>
+                  <hi>Art can't effect the cure, no more could Nature;</hi>
+               </l>
+               <l>
+                  <pb n="28" facs="tcp:38186:17"/>
+                  <hi>For if it was a Serpent, then I'm ſure,</hi>
+               </l>
+               <l>
+                  <hi>Serpents by nature rather kill then cure;</hi>
+               </l>
+               <l>
+                  <hi>A fiery Serpent too, who can indure?</hi>
+               </l>
+               <l>
+                  <hi>The ſting of Death is ſin, by th' Serpent ſhown,</hi>
+               </l>
+               <l>
+                  <hi>The Venom too, cauſe 'twas a fiery one.</hi>
+               </l>
+               <l>
+                  <hi>What more averſe to Reaſon, Senſe or Faith,</hi>
+               </l>
+               <l>
+                  <hi>Than to ſeek Life from an accurſed Death.</hi>
+               </l>
+               <l>
+                  <hi>A crucified Jeſus did beſpeak</hi>
+               </l>
+               <l>
+                  <hi>Spite to the</hi> Jew, <hi>and folly to the</hi> Greek.</l>
+               <l>
+                  <hi>But if you look at Gods wiſe end in this,</hi>
+               </l>
+               <l>
+                  <hi>The curſed Tree's become the Tree of bliſs.</hi>
+               </l>
+               <l>
+                  <hi>Look as th' aforeſaid Serpent made of Braſs,</hi>
+               </l>
+               <l>
+                  <hi>Was not a Serpent, but its Image was:</hi>
+               </l>
+               <l>
+                  <hi>So without ſin, I'm made a ſinful Creature,</hi>
+               </l>
+               <l>
+                  <hi>And by my Death gave Life to humane Nature;</hi>
+               </l>
+               <l>
+                  <hi>And this Life is convey'd, as Scripture ſaith,</hi>
+               </l>
+               <l>
+                  <hi>By looking on my Croſs, with lively faith:</hi>
+               </l>
+               <l>
+                  <hi>A Faith that puts the Serpent to the rout;</hi>
+               </l>
+               <l>
+                  <hi>Pulls out his ſting, and lets the Poyſon out.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since that my Lord thus rais'd himſelf on high;</l>
+               <l>Why doth my Soul, oth' ground thus grov'ling lie!</l>
+               <l>O, fix my heart on this thy bleſſed Tree!</l>
+               <l>So as to taſt the fruit, and healed be:</l>
+               <l>What boot's thy pardon, tho ſo full, ſo free,</l>
+               <l>If that my Conſcience will not pardon me?</l>
+               <l>I have been told, that this thy Towring croſs,</l>
+               <l>The downfal of the Devils Kingdom was.</l>
+            </sp>
+            <sp>
+               <pb n="29" facs="tcp:38186:17"/>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Some make the brazen Serpent for to be</hi>
+               </l>
+               <l>
+                  <hi>A fitting Emblem of this Verity.</hi>
+               </l>
+               <l>
+                  <hi>A dead and wounded Serpent on a Tree,</hi>
+               </l>
+               <l>
+                  <hi>Beſpeaks the wounds Satan receiv'd from me.</hi>
+               </l>
+               <l>
+                  <hi>For thus my Croſs became the Stage and Scene,</hi>
+               </l>
+               <l>
+                  <hi>Where that curſt Serpent vents his utmoſt ſpleen.</hi>
+               </l>
+               <l>
+                  <hi>Nor did I break his Scepter and his Rod</hi>
+               </l>
+               <l>
+                  <hi>By force of Arms alone, as being God;</hi>
+               </l>
+               <l>
+                  <hi>By Martial Law I entred in the Field,</hi>
+               </l>
+               <l>
+                  <hi>By a new Conqueſt made my Foe to yeild.</hi>
+               </l>
+               <l>
+                  <hi>My Innocence did quench his fiery Dart,</hi>
+               </l>
+               <l>
+                  <hi>My Patience ſmote him to the very Heart.</hi>
+               </l>
+               <l>
+                  <hi>My Foe by wounding me, did himſelf wound,</hi>
+               </l>
+               <l>
+                  <hi>Meeting his fiery Dart at the rebound.</hi>
+               </l>
+               <l>
+                  <hi>Murdering the Son of God i'th' ſinners ſtead:</hi>
+               </l>
+               <l>
+                  <hi>He brought both ſhame and curſe upon his Head.</hi>
+               </l>
+               <l>
+                  <hi>And thus I caught the Devil in that gin,</hi>
+               </l>
+               <l>
+                  <hi>By which he made</hi> Adam <hi>and</hi> Eve <hi>to ſin.</hi>
+               </l>
+               <l>
+                  <hi>I'th' Serpents ſhape at first he did appear,</hi>
+               </l>
+               <l>
+                  <hi>Not in his own, 'twas full of dread and fear,</hi>
+               </l>
+               <l>
+                  <hi>And by this Craft he got the Womans Ear.</hi>
+               </l>
+               <l>
+                  <hi>In love to man, mans Fleſh and Blood took I,</hi>
+               </l>
+               <l>
+                  <hi>Cloathing my Godhead with Humanity:</hi>
+               </l>
+               <l>
+                  <hi>The Serpent by this art, I did outvy.</hi>
+               </l>
+               <l>
+                  <hi>Who views my Croſs, now with a faithful Eye,</hi>
+               </l>
+               <l>
+                  <hi>May ſee the curſed Serpent wounded lye.</hi>
+               </l>
+               <l>
+                  <hi>What once was term'd the ignominious Tree,</hi>
+               </l>
+               <l>
+                  <hi>Now proves a Trophy of my Victory.</hi>
+               </l>
+               <l>
+                  <pb n="30" facs="tcp:38186:18"/>
+                  <hi>For ſo the</hi> Romans <hi>in a conquer'd Town</hi>
+               </l>
+               <l>
+                  <hi>Set up a Trophy of their great Renown.</hi>
+               </l>
+               <l>
+                  <hi>At firſt it was a Garment, or ſome Cloaths,</hi>
+               </l>
+               <l>
+                  <hi>Stript from the back of their new conquer'd Foes;</hi>
+               </l>
+               <l>
+                  <hi>Then faſtned to a Tranſverſe Beam it was;</hi>
+               </l>
+               <l>
+                  <hi>Then mounted on a Pole, my very Croſs.</hi>
+               </l>
+               <l>
+                  <hi>I having ſpoild the Devil on the Tree,</hi>
+               </l>
+               <l>
+                  <hi>I made the ſhew on't, Triumpht openly</hi>
+                  <note n="*" place="bottom">
+                     <hi>Col.</hi> 2.15.</note>:</l>
+               <l>
+                  <hi>My Croſs that was ſo curſed, doth appear</hi>
+               </l>
+               <l>
+                  <hi>To be my Chariot, and triumphing Chair.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>If that the Serpent's crucifi'd with thee,</l>
+               <l>Why do I find him daily tempting me?</l>
+               <l>Is not my heart more Devil e're then he?</l>
+               <l>Grant that as Satan felt thy Croſſes ſmart,</l>
+               <l>So do thou Rule and Reign within my Heart.</l>
+               <l>Why would my Lord, girt with a Crown of Thorns,</l>
+               <l>Be nail'd and rivetted to Croſſes horns?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>The Earth once curſt by</hi> Adams <hi>ſin, did bear</hi>
+               </l>
+               <l>
+                  <hi>Bryars and Thorns, which on my Head I wear,</hi>
+               </l>
+               <l>
+                  <hi>And for that Curſe I make Atonement here.</hi>
+               </l>
+               <l>
+                  <hi>Before the Heathens Oxes Blood was ſhed,</hi>
+               </l>
+               <l>
+                  <hi>They put a Crown of Flowers on his Head.</hi>
+               </l>
+               <l>
+                  <hi>When I was Crown'd with Thorns upon the Tree,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Heathen <hi>may behold the Myſtery.</hi>
+               </l>
+               <l>
+                  <pb n="31" facs="tcp:38186:18"/>
+                  <hi>VVhen</hi> Iſaac, <hi>the delight of</hi> Abraham<hi>'s</hi> Eyes,</l>
+               <l>
+                  <hi>Had like to bave been once a Sacrifice,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Ram <hi>was caught i'th' Thickets of the VVood,</hi>
+               </l>
+               <l>
+                  <hi>Chriſt crown'd with Thorns is that</hi> Ram <hi>underſtood:</hi>
+               </l>
+               <l>
+                  <hi>In every</hi> Jewiſh <hi>Sacrifice of Old,</hi>
+               </l>
+               <l>
+                  <hi>My Croſs was but the ſtory often told:</hi>
+               </l>
+               <l>
+                  <hi>For when the</hi> Lamb <hi>was ſlain, his joints ſtretcht out,</hi>
+               </l>
+               <l>
+                  <hi>Then ti'd to th' Altars Horns, without all doubt</hi>
+               </l>
+               <l>
+                  <hi>The Myſtery of the Croſs was pointed out.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since that the <hi>Jewiſh</hi> ſacrifice and thine,</l>
+               <l>Did in one Altar meet and ſo combine:</l>
+               <l>Oh let my ſins be faſtned to the Tree,</l>
+               <l>And like a ſacrifice be ſlain with thee:</l>
+               <l>So ſhall the <hi>Jews</hi> and Chriſtian Rites agree,</l>
+               <l>And Chriſt be all in all in them and me.</l>
+               <l>Let all my croſſes, loſſes, mocks, and ſcorns,</l>
+               <l>Be dignified by thy Crown of Thorns</l>
+               <l>I have not done, methinks thy Croſs points out,</l>
+               <l>Some latent Truth behind, (Lord) clear my doubt,</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>How doth the God of Love, void of all evil,</hi>
+               </l>
+               <l>
+                  <hi>Run counter to the Malice of the Devil?</hi>
+               </l>
+               <l>
+                  <hi>Since that the curſed Caitiffs proper food,</hi>
+               </l>
+               <l>
+                  <hi>Is for to glut o'th' ſtreams of humane Blood.</hi>
+               </l>
+               <l>
+                  <hi>But God is Love, tho Juſtice might ſtep in,</hi>
+               </l>
+               <l>
+                  <hi>And claim mans blood, as forfeited by ſin:</hi>
+               </l>
+               <l>
+                  <pb n="32" facs="tcp:38186:19"/>
+                  <hi>Yet Goodneſs is ſo full of his own good,</hi>
+               </l>
+               <l>
+                  <hi>Rather than man ſhall loſe his life and blood,</hi>
+               </l>
+               <l>
+                  <hi>God by the hands of his own Juſtice dies:</hi>
+               </l>
+               <l>
+                  <hi>Not man, but God becomes the Sacrifice:</hi>
+               </l>
+               <l>
+                  <hi>The powers of darkneſs and eternal night</hi>
+               </l>
+               <l>
+                  <hi>Were ſpoiled here, and here expos'd to ſight.</hi>
+               </l>
+               <l>
+                  <hi>By the ſame ſword thy Lord receiv'd his wound,</hi>
+               </l>
+               <l>
+                  <hi>He ſmote the curſed Serpent to the ground.</hi>
+               </l>
+               <l>
+                  <hi>Here Satan, more than Chriſt ſeems to be dead:</hi>
+               </l>
+               <l>
+                  <hi>He bruis'd his heel indeed, but he his head:</hi>
+               </l>
+               <l>
+                  <hi>Nor was he hurt alone, but 'tis as true,</hi>
+               </l>
+               <l>
+                  <hi>He was diſarm'd of all his weapons too.</hi>
+               </l>
+               <l>
+                  <hi>Can he condemn? The ſinner ſoon replies,</hi>
+               </l>
+               <l>
+                  <hi>Man ſhall not dye, ſince God himſelf here dies.</hi>
+               </l>
+               <l>
+                  <hi>When that the Creditor</hi>'s <hi>become thy friend,</hi>
+               </l>
+               <l>
+                  <hi>The Bailiffs inquiſition</hi>'s <hi>at an end.</hi>
+               </l>
+               <l>
+                  <hi>Here Hell was hy its captive, captive led,</hi>
+               </l>
+               <l>
+                  <hi>And the deſtroyer, Death, ſlain by the dead.</hi>
+               </l>
+               <l>
+                  <hi>That Hand-writing which threatned man with th' loſs</hi>
+               </l>
+               <l>
+                  <hi>Of life, is cancell'd here, and nailed to th' croſs.</hi>
+               </l>
+               <l>
+                  <hi>So laws of old, when that their power was loſt,</hi>
+               </l>
+               <l>
+                  <hi>They were expos'd, transfixed to a Poſt:</hi>
+               </l>
+               <l>
+                  <hi>And to make all compleat, Gods Juſtice too,</hi>
+               </l>
+               <l>
+                  <hi>For thy contentment is expos'd to view.</hi>
+               </l>
+               <l>
+                  <hi>Here both Gods Arms of Juſtice, with his Hands,</hi>
+               </l>
+               <l>
+                  <hi>Were faſtned to the croſs by loving hands:</hi>
+               </l>
+               <l>
+                  <hi>He cannot lift them up (ſince they are bound)</hi>
+               </l>
+               <l>
+                  <hi>To ſtrike the contrite ſinner to the ground:</hi>
+               </l>
+               <l>
+                  <hi>Nor can his weighty feet (ſince they are pent)</hi>
+               </l>
+               <l>
+                  <hi>Trip up the heels of any Penitent.</hi>
+               </l>
+               <l>
+                  <pb n="33" facs="tcp:38186:19"/>
+                  <hi>Only his hands are ſtretcht, as ſilent charms,</hi>
+               </l>
+               <l>
+                  <hi>T' allure the ſoul to fall into his arms.</hi>
+               </l>
+               <l>
+                  <hi>The mouth of Juſtice here is ſtill and mute,</hi>
+               </l>
+               <l>
+                  <hi>And only bows his head to th' ſinners ſuit.</hi>
+               </l>
+               <l>
+                  <hi>His ſide is pierc't, his blood trails on the ground</hi>
+               </l>
+               <l>
+                  <hi>To fetch you in, and ſo cloſe up the wound.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since that my ſoul for ſin can find no eaſe,</l>
+               <l>Toſs'd on the billows of the angry ſeas,</l>
+               <l>I'l fly unto thy Croſs, and there imbark,</l>
+               <l>Creeping in at the Windows of that Ark,</l>
+               <l>Thy ſide I mean, Lord grant me entrance in,</l>
+               <l>Then let thy precious wounds cloſe up my ſin.</l>
+               <l>Nor am I pleas'd my ſins are covered,</l>
+               <l>Till they be crucifi'd with thee, and dead.</l>
+               <l>How ſhall I ſound thy pangs, thy pains, thy ſmart,</l>
+               <l>And what a ſufferer for me thou wert,</l>
+               <l>Till that I find and feel thy pois'ned dart,</l>
+               <l>Lye throbbing in each Fibre of my Heart.</l>
+               <l>The <hi>Jew</hi> before the Victims blood was ſhed,</l>
+               <l>(Laying his hand upon th' accurſed head)</l>
+               <l>Cri'd out, 'Twas I that merited this pain,</l>
+               <l>Thus to be bound and ſtrangled, cut and ſlain:</l>
+               <l>My ſin, that curſed beaſt, that goard my Lord,</l>
+               <l>I'l bind him to thy Altar faſt with cord,</l>
+               <l>Then ſlay the ſlayer with the ſlayers ſword,</l>
+               <l>'Twas ſin that forc't thy death, or't had not been;</l>
+               <l>Shall not thy death enforce the death of ſin?</l>
+               <l>
+                  <pb n="34" facs="tcp:38186:20"/>I'le therefore ſtretch its hands and arms full wide</l>
+               <l>Upon thy Croſs, and wound them through thy ſide.</l>
+               <l>Thy pangs ſhall through my hollow bowels move,</l>
+               <l>And eccho back again thy dying love:</l>
+               <l>My tears ſhall meet thy blood, then ſafely I</l>
+               <l>May ſay thy death is mine, when thus I dye,</l>
+               <l>Pardon my ſuit, O Lord, diſcover why</l>
+               <l>Thou chooſeſt ſuch a painful death to dye?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Small was the inſtance of mans firſt offence;</hi>
+               </l>
+               <l>
+                  <hi>The greater was his diſobedience:</hi>
+               </l>
+               <l>
+                  <hi>Scarce do ye ſin, or ever go aſtray,</hi>
+               </l>
+               <l>
+                  <hi>Till pleaſure goes before and leads the way.</hi>
+               </l>
+               <l>
+                  <hi>I bore thoſe pains moſt contrary to ſence,</hi>
+               </l>
+               <l>
+                  <hi>Mans cheap and pleaſant ſin to recompence.</hi>
+               </l>
+               <l>
+                  <hi>What was thy pleaſure, let it be thy fear,</hi>
+               </l>
+               <l>
+                  <hi>Since what's ſo cheap to thee, to me's as dear.</hi>
+               </l>
+               <l>
+                  <hi>A living death, a dying life had I;</hi>
+               </l>
+               <l>
+                  <hi>I di'd in dying, yet I could not dye:</hi>
+               </l>
+               <l>
+                  <hi>My bones disjointed, and my Nerves extended,</hi>
+               </l>
+               <l>
+                  <hi>I di'd in every part, yet no life ended.</hi>
+               </l>
+               <l>
+                  <hi>My lingring death, that death may ſignifie,</hi>
+               </l>
+               <l>
+                  <hi>Where ſinners always live, and always die.</hi>
+               </l>
+               <l>
+                  <hi>By this death, without death, it may be ſhown,</hi>
+               </l>
+               <l>
+                  <hi>(If Infinite by Finite can be known)</hi>
+               </l>
+               <l>
+                  <hi>Thy ever dying death I did atone.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="35" facs="tcp:38186:20"/>
+               <speaker>SOUL.</speaker>
+               <l>A death ſo painful; ſhameful, ne'r was ſeen,</l>
+               <l>Nay curſed too; I wiſh't had never been.</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>I wiſh ſo too; but ſuch hecame thy ſin:</hi>
+               </l>
+               <l>
+                  <hi>For never was there ſin thou didſt commit,</hi>
+               </l>
+               <l>
+                  <hi>But pain, and ſhame, and curſe attended it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Truth, Lord: in every breach of thy command,</l>
+               <l>The Pain doth take the Pleaſure by the hand.</l>
+               <l>The Proud ſhall never want their pain and trouble,</l>
+               <l>The reaſon is, they bottom on a bubble.</l>
+               <l>The worldlings in their plenty ſtill do crave,</l>
+               <l>And pain'd in this they want the goods they have:</l>
+               <l>The envious to themſelves prove very Devils,</l>
+               <l>Making their brothers goods become their evils.</l>
+               <l>Luſt is a Devil too, that firſt doth tempt us,</l>
+               <l>Then making conſcience Devil to torment us.</l>
+               <l>The lyar finds a truth, who never ſaid it;</l>
+               <l>He ſuffers from his conſcience and his credit.</l>
+               <l>Injuſtice that withdraws anothers pelf,</l>
+               <l>Doth the exacteſt Juſtice on it ſelf.</l>
+               <l>It is a truth too true, we may relye on't:</l>
+               <l>Each ſin doth bear his croſs, but will not dye on't</l>
+               <l>Thy death was painful (Lord) but I'm offended,</l>
+               <l>That by a ſhameful death thy life was ended.</l>
+            </sp>
+            <sp>
+               <pb n="36" facs="tcp:38186:21"/>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>My Croſs was as a Pulpit plac'd on high</hi>
+               </l>
+               <l>
+                  <hi>Preaching a Sermon viſible to th' eye</hi>
+               </l>
+               <l>
+                  <hi>Of Meekneſs, Patience, Love, Humility.</hi>
+               </l>
+               <l>
+                  <hi>Theſe virtues in the mind could make no ſtamp,</hi>
+               </l>
+               <l>
+                  <hi>Had I appear'd array'd in worldly Pomp:</hi>
+               </l>
+               <l>Phocian, Thraſias, <hi>and ſuch men as theſe,</hi>
+               </l>
+               <l>Regulus, Ariſtides, Socrates:</l>
+               <l>
+                  <hi>Such Heroes Virtues ne'r could climb the sky,</hi>
+               </l>
+               <l>
+                  <hi>Were not their perſons once condemn'd to dye:</hi>
+               </l>
+               <l>
+                  <hi>So ſtars ſhine brightest in a froſty night,</hi>
+               </l>
+               <l>
+                  <hi>The biggeſt leaſt appearing in our ſight.</hi>
+               </l>
+               <l>
+                  <hi>In love to man, and tender ſympathy</hi>
+               </l>
+               <l>
+                  <hi>To man in troubles 'twas but meet that I</hi>
+               </l>
+               <l>
+                  <hi>Should feel the brunt of all, and therefore dye.</hi>
+               </l>
+               <l>
+                  <hi>Now love's a law never to be controul'd,</hi>
+               </l>
+               <l>
+                  <hi>What e're it toucheth, turneth all to Gold:</hi>
+               </l>
+               <l>
+                  <hi>From an accurſed death exalts its fame;</hi>
+               </l>
+               <l>
+                  <hi>Nobles diſgrace finds dignity in ſhame.</hi>
+               </l>
+               <l>
+                  <hi>Since God must be aton'd too, I'm content</hi>
+               </l>
+               <l>
+                  <hi>To undergo this legal puniſhment:</hi>
+               </l>
+               <l>
+                  <hi>Condemn'd to dye in ſhame, what greater dread,</hi>
+               </l>
+               <l>
+                  <hi>Than to dye once, be killed too when dead.</hi>
+               </l>
+               <l>
+                  <hi>Can worſe be meant, what all men always have:</hi>
+               </l>
+               <l>
+                  <hi>My pains muſt want a death, my death a grave.</hi>
+               </l>
+               <l>
+                  <hi>This was thy ſhame (my ſoul) mine ne'r had been,</hi>
+               </l>
+               <l>
+                  <hi>Wer't not to expiate thy ſhameful ſin.</hi>
+               </l>
+               <l>
+                  <hi>That ſin is cloath'd with ſhame, this doth expreſs it;</hi>
+               </l>
+               <l>
+                  <hi>Men dare to ſin, but dare not to confeſs it.</hi>
+               </l>
+               <l>
+                  <pb n="37" facs="tcp:38186:21"/>
+                  <hi>Sin dyes thy Aſpect red, or makes it pale;</hi>
+               </l>
+               <l>
+                  <hi>Nature to hide thy ſhame, pulls on her Vail.</hi>
+               </l>
+               <l>
+                  <hi>Like to the curſed Serpent, ſuch is luſt,</hi>
+               </l>
+               <l>
+                  <hi>It creeps on's belly, and it licks the duſt.</hi>
+               </l>
+               <l>
+                  <hi>Lyars want feet to ſtand on, yet they can</hi>
+               </l>
+               <l>
+                  <hi>Dare to affront a God, but ſneak from man.</hi>
+               </l>
+               <l>
+                  <hi>Drunkards have naught to ſpeak them humane crea<g ref="char:EOLhyphen"/>tures,</hi>
+               </l>
+               <l>
+                  <hi>But inward guilt, and ſome few outward features:</hi>
+               </l>
+               <l>
+                  <hi>Would they but once in my word view their face,</hi>
+               </l>
+               <l>
+                  <hi>They'd curſe the Image, but commend the Glaſs.</hi>
+               </l>
+               <l>
+                  <hi>The Miſers ſins as baſe, baſe earth at beſt,</hi>
+               </l>
+               <l>
+                  <hi>Making it ſelf the center of its reſt.</hi>
+               </l>
+               <l>
+                  <hi>Thus ſhame to wait on ſin will never fail,</hi>
+               </l>
+               <l>
+                  <hi>Bating the ſting that's in the vipers tail.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Moſt ſhameful ſin! tho Hell had never been;</l>
+               <l>Methinks there's Hell enough in every ſin:</l>
+               <l>Shall I create a Title and a Name</l>
+               <l>To that which made my God a publick ſhame?</l>
+               <l>Since ſin expos'd my Lord, I'le here begin,</l>
+               <l>From this example to expoſe my ſin.</l>
+               <l>I'le ſearch and try, judg and condemn its cauſe,</l>
+               <l>At the moſt ſtrict Tribunal of thy Laws.</l>
+               <l>I'le ſtrip the Varlet of his vain pretences,</l>
+               <l>Then Scourge him roundly for his vile Offences.</l>
+               <l>I'le bind him faſt in this faſt twiſted Cord,</l>
+               <l>Sins guilt, deaths curſe, Gods Ire, Hells Flaming Sword.</l>
+               <l>I'le make him feel his burden with Remorſe,</l>
+               <l>Of conſcience, bear, and dye too on the Croſs.</l>
+               <l>
+                  <pb n="38" facs="tcp:38186:22"/>I'le cauſe my luxuries to take a ſup</l>
+               <l>O'th' mixtures they prepared for thy Cup.</l>
+               <l>Here my intemperance like thee, O Chriſt,</l>
+               <l>Shall on thy Croſs cry out, I thirſt! I thirſt!</l>
+               <l>My whoredorms, riots, revels in the Night,</l>
+               <l>Shall here do penance in thy Robes of White.</l>
+               <l>My Oaths that ſtabb'd thee to the Heart, ſhall feel</l>
+               <l>The pangs and pains of thy ſide-peircing Steel.</l>
+               <l>My pride that cannot ſtoop, nor bear a frown,</l>
+               <l>Shall feel the pungent prickles of thy Crown.</l>
+               <l>My luſts, thoſe Nayls that ty'd thee to the Tree,</l>
+               <l>Shall feel themſelves faſt bound and ty'd with thee.</l>
+               <l>Thoſe fierce and fiery paſſions that moſt pleaſe us,</l>
+               <l>Shall here lye proſtrate at the Feet of Jeſus.</l>
+               <l>Thus ſhall my ſins with all their mighty Hoſt,</l>
+               <l>Be ſtretcht and nailed to thy curſed Poſt,</l>
+               <l>Then cry aloud, and ſo give up the Ghoſt.</l>
+               <l>Why wouldſt thou dye upon that curſed Wood,</l>
+               <l>Methinks ther'es ſomething yet (Lord) underſtood?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>T' attone the ſin of the forbidden Tree,</hi>
+               </l>
+               <l>
+                  <hi>Once curs'd by</hi> Adam, <hi>but more curſe to me.</hi>
+               </l>
+               <l>
+                  <hi>O Croſs! the name and quinteſſence of Evils,</hi>
+               </l>
+               <l>
+                  <hi>Curſed by God, by Angels, Men, and Devils.</hi>
+               </l>
+               <l>
+                  <hi>What curſe is greater, except this be worſe,</hi>
+               </l>
+               <l>
+                  <hi>I am at length become the Creatures curſe?</hi>
+               </l>
+               <l>
+                  <hi>The Sun at Noon-day hides his Glorious Face,</hi>
+               </l>
+               <l>
+                  <hi>Bluſhing at ſuch an object of diſgrace.</hi>
+               </l>
+               <l>
+                  <pb n="39" facs="tcp:38186:22"/>
+                  <hi>My Corps they muſt not reſt a night o'th' Tree,</hi>
+               </l>
+               <l>
+                  <hi>Leſt that the Air ſhould take offence at me.</hi>
+               </l>
+               <l>
+                  <hi>The Earth that's curs'd by mine, tho</hi> Adams <hi>ſin,</hi>
+               </l>
+               <l>
+                  <hi>Won't let me touch her with my nether skin.</hi>
+               </l>
+               <l>
+                  <hi>That Earth where Serpents feed, and Beaſts do tread on,</hi>
+               </l>
+               <l>
+                  <hi>I muſt not find a place to lay my head on.</hi>
+               </l>
+               <l>
+                  <hi>Rocks put on ſence, and ſeem for to condole,</hi>
+               </l>
+               <l>
+                  <hi>The pangs and dolors of my dying Soul.</hi>
+               </l>
+               <l>
+                  <hi>The Temple ſeems to be profan'd by me,</hi>
+               </l>
+               <l>
+                  <hi>And rents its Cloaths as hearing Blaſphemy.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>If ſpotleſs innocence hath thus been uſed,</l>
+               <l>Can ſins Excuſes ever be excuſed?</l>
+               <l>Who counts his ſin but ſmall, of little weight,</l>
+               <l>Muſt ſay the ſame of God, if he ſay right.</l>
+               <l>Count thy ſin ſmall, if any can be ſuch,</l>
+               <l>'Tis not a little that thou lov'ſt it much.</l>
+               <l>For ſo a Bodkin if it reach thy Heart,</l>
+               <l>Kills thee as ſure as doth a greater Dart.</l>
+               <l>The prickles of that Crown which Jeſus wore,</l>
+               <l>Bedew'd his Temples with a purple gore.</l>
+               <l>The ſmaller inſtance doth enhanſe the ſin;</l>
+               <l>VVilt looſe Gods Grace and Favour for a pin?</l>
+               <l>In ſmalleſt cranies ſerpents will not fayl,</l>
+               <l>Firſt to twine in the Head, and then the tayl.</l>
+               <l>VVho takes an earneſt penny, he engages</l>
+               <l>To do more work, when Satan bids more wages.</l>
+               <l>Nor muſt thou reckon at the common rate,</l>
+               <l>Thy ſin was ſmall, cauſe the temptation's great.</l>
+               <l>
+                  <pb n="40" facs="tcp:38186:23"/>Such as man is, ſuch is the power of ſin,</l>
+               <l>Prevailing not without, but from within.</l>
+               <l>Some Healthful perſons will devour a meſs,</l>
+               <l>VVhen ſqueamiſh ſtomacks will recoyl at leſs.</l>
+               <l>
+                  <hi>Joſeph</hi> was Tempted more than e're was <hi>David,</hi>
+               </l>
+               <l>The one fell foul, the other he was ſaved.</l>
+               <l>Poor thirty pieces did prevail upon</l>
+               <l>
+                  <hi>Judas,</hi> when thouſands could not on St. <hi>John;</hi>
+               </l>
+               <l>VVho for a pound won't ſin, but will for ſeven,</l>
+               <l>This is to ſet a price on God and Heaven.</l>
+               <l>VVhat's Infinite, and what's Eternal Life,</l>
+               <l>Equal outweighs five thouſand pounds, as five.</l>
+               <l>But for Temptation this had never bin,</l>
+               <l>Is nought to ſay, but that you love the ſin.</l>
+               <l>Nor can ſins pleaſure or its pleaſing Profit</l>
+               <l>Excuſe the ſin for the Commiſſion of it.</l>
+               <l>Since in its tempting and commodious ware,</l>
+               <l>Jeſus outbids the Devils market far.</l>
+               <l>Judg whether Vice or Virtue is more gainful,</l>
+               <l>Since Life to come's ſo ſweet, and Death ſo painful.</l>
+               <l>Nor canſt thou ſay 'tis thine unhappy ſtate,</l>
+               <l>Sin never was thy choice, but 'tis thy Fate.</l>
+               <l>Can Life cauſe Death? Good Evil, Truth a lye?</l>
+               <l>Life, Goodneſs, Truth crys out, why wilt thou dye?</l>
+               <l>Is man a Creature of a rank no higher</l>
+               <l>Than artificial Puppet made of Wier.</l>
+               <l>Are praiſes, promiſes, rewards, all one,</l>
+               <l>As if you ſhould ſing well to pleaſe a ſtone?</l>
+               <l>Is man no more blame worthy for his ſin,</l>
+               <l>Than is a Watch not pointing right the Pin?</l>
+               <l>
+                  <pb n="41" facs="tcp:38186:23"/>Conſcience would never ſmite thee for a Vice,</l>
+               <l>Did not thy Nature prompt thee otherwiſe.</l>
+               <l>Is't not the Drunkards choice to ſet at nought</l>
+               <l>That cup where Aconite is made the draught?</l>
+               <l>And cannot Heaven nor Hell make him refrain,</l>
+               <l>Can Heaven e're loſe its price, or Hell its pain?</l>
+               <l>Strange Fate; ne're fix'd on ought but what are evils,</l>
+               <l>As if God ne're made men, but all were Devils.</l>
+               <l>If ſin hath caught thee in its fatal gin,</l>
+               <l>Thy puniſhment's as fatal as thy ſin.</l>
+               <l>But after all, is there no ſtrength and force</l>
+               <l>In this, that ſin made God himſelf a curſe?</l>
+               <l>Then ſinner take thy fill, carouſe and quaff,</l>
+               <l>But canſt thou drink oth' Cup that Chriſt drank of?</l>
+               <l>Or can thy back once bear that direful Rod,</l>
+               <l>Preſt with the Arm of an Almighty God?</l>
+               <l>If ſin made God ſo curſed, Oh what can</l>
+               <l>Make ſin more curſed unto ſinful man!</l>
+               <l>If innocence did under wrath ſo groan,</l>
+               <l>What comfort can the ſinner look for? none.</l>
+               <l>I beg thy Favour Lord for to relate,</l>
+               <l>Why thou waſt Crucifi'd without the Gate?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>For to compleat a Jewiſh Type of note,</hi>
+               </l>
+               <l>
+                  <hi>Th' accurſed Sacrifice o'th' Scapen Goat.</hi>
+               </l>
+               <l>
+                  <hi>Nor was it fit my Merits and my Grace</hi>
+               </l>
+               <l>
+                  <hi>Should be confin'd only to th' Jewiſh Race.</hi>
+               </l>
+               <l>
+                  <hi>I dy'd a</hi> Pagan <hi>Death, my erected wood</hi>
+               </l>
+               <l>
+                  <hi>Stood 'loft, that all may view it for their good.</hi>
+               </l>
+               <l>
+                  <pb n="42" facs="tcp:38186:24"/>
+                  <hi>My Arms were ſtretched out from Eaſt to Weſt,</hi>
+               </l>
+               <l>
+                  <hi>To cloſe with every Soul that would be Bleſt.</hi>
+               </l>
+               <l>
+                  <hi>My Titles wrote in</hi> Hebrew Latin, Greek;</l>
+               <l>
+                  <hi>All Nations in me may Salvation ſeek.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Thou dyd'ſt for all; nought can it falſify,</l>
+               <l>But only curſed Infidelity.</l>
+               <l>Were not thy Death of Value infinite,</l>
+               <l>It could not make atonement for one ſprite.</l>
+               <l>But being infinite, it ſatisfi'd,</l>
+               <l>Both for this world, and thouſand worlds beſide.</l>
+               <l>Let my name in thy Croſs Engraven be;</l>
+               <l>Thou didſt not dye for all, if not for me.</l>
+               <l>But why in Holy Writ is't verifi'd,</l>
+               <l>My Lord betwixt two Malefactors dy'd.</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>There is a reaſon why th' Apoſtle ſaid it,</hi>
+               </l>
+               <l>
+                  <hi>Not only for to ſave the Prophets credit.</hi>
+               </l>
+               <l>
+                  <hi>I was eſteem'd a greater thief to be</hi>
+               </l>
+               <l>
+                  <hi>Than either of thoſe Thieves that dy'd with me.</hi>
+               </l>
+               <l>
+                  <hi>But yet by dying thus I mercy meant</hi>
+               </l>
+               <l>
+                  <hi>To th' greateſt thief, the greateſt penitent.</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Adam <hi>robb'd the Tree to make him VViſe,</hi>
+               </l>
+               <l>
+                  <hi>And then deny'd it, lost his Paradiſe.</hi>
+               </l>
+               <l>
+                  <hi>Humble confeſſion finds admiſſion in</hi>
+               </l>
+               <l>
+                  <hi>To Paradiſe thus loſt by</hi> Adams <hi>ſin.</hi>
+               </l>
+               <l>
+                  <hi>Wht one Thief loſt, you ſee the other found;</hi>
+               </l>
+               <l>
+                  <hi>Who falls and riſeth ſoon, he gaineth ground.</hi>
+               </l>
+               <l>
+                  <pb n="43" facs="tcp:38186:24"/>
+                  <hi>But he that lives in ſin, in ſin ſhall dye,</hi>
+               </l>
+               <l>
+                  <hi>Yea tho his Lord and Saviour ſtandeth by.</hi>
+               </l>
+               <l>
+                  <hi>VVho hopes for Heaven, but will not change his vice,</hi>
+               </l>
+               <l>
+                  <hi>May find a Hell, yea in a Paradiſe.</hi>
+               </l>
+               <l>
+                  <hi>His very hopes are founded in his fears,</hi>
+               </l>
+               <l>
+                  <hi>Since luſt would fire a Heaven about his Ears.</hi>
+               </l>
+               <l>
+                  <hi>Bateing my word, each ſinner can foretel,</hi>
+               </l>
+               <l>
+                  <hi>Sin hath a Central force that points at Hell.</hi>
+               </l>
+               <l>
+                  <hi>I need not ſay, Depart out of my ſight,</hi>
+               </l>
+               <l>
+                  <hi>It never was, nor can be his delight.</hi>
+               </l>
+               <l>
+                  <hi>VVho to my ſacred Laws hath ſmall regard,</hi>
+               </l>
+               <l>
+                  <hi>Hath leſs of reaſon to expect reward.</hi>
+               </l>
+               <l>
+                  <hi>My Croſs here ſeems to repreſent my Throne,</hi>
+               </l>
+               <l>
+                  <hi>VVhich at the laſt day I ſhall ſit upon;</hi>
+               </l>
+               <l>
+                  <hi>O'th left hand ſtands the Goats, my Sheep o'th' right,</hi>
+               </l>
+               <l>
+                  <hi>As meet inheritors with Saints in light?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>By theſe two Thieves, my Lord hath clearly ſhown,</l>
+               <l>Juſtice and Mercy doth uphold his Throne.</l>
+               <l>Th' one aws my hopes, th' other checks my fears,</l>
+               <l>Th' one hoiſts up Sail, whil'ſt that the other ſtears.</l>
+               <l>To th' dying Thief much was thy mercy ſhown,</l>
+               <l>I won't preſume on't, cauſe he was but one.</l>
+               <l>'Twas his firſt time he ever heard of thee,</l>
+               <l>The ſame can ne're be verifi'd of me.</l>
+               <l>He for his Lord and Saviour once did take thee,</l>
+               <l>In that weak ſtate when all thy friends forſake thee.</l>
+               <l>Thou own'ſt him at thy death, he thee at thine,</l>
+               <l>The ſame can ne're be truly ſaid of mine.</l>
+               <l>
+                  <pb n="44" facs="tcp:38186:25"/>I'le now reſolve, God ne're held forth to morrow;</l>
+               <l>Or if he did, did not repenting ſorrow.</l>
+               <l>That I ſhall turn to God, can it be ſaid.</l>
+               <l>When that I ſcarce can turn me in my Bed?</l>
+               <l>My time is ſhort, way heavy, long the courſe;</l>
+               <l>Shall all the burden lye o'th' weakeſt Horſe?</l>
+               <l>My debts run on, ſhall I diſcharge the ſcore,</l>
+               <l>And pay them bitter when I owe the more?</l>
+               <l>I bluſh to think whats dreadful for to own,</l>
+               <l>My luſts ſhall have the Marrow, God the Bone.</l>
+               <l>When on the dying Thief thou caſt thine Eyes,</l>
+               <l>Methinks thy words ſome potent truth implies,</l>
+               <l>This day thou ſhalt be with m' in Paradiſe?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>The</hi> Jews <hi>held forth a double Paradiſe,</hi>
+               </l>
+               <l>
+                  <hi>That on the Earth, and that above the Skies;</hi>
+               </l>
+               <l>
+                  <hi>The place where earthly joys all met together,</hi>
+               </l>
+               <l>
+                  <hi>The one the fitter umbrage of the other.</hi>
+               </l>
+               <l>
+                  <hi>From hence th'</hi> Elyſian <hi>Fields firſt took their riſe,</hi>
+               </l>
+               <l>
+                  <hi>Shades of the Trees that grew in Paradiſe:</hi>
+               </l>
+               <l>
+                  <hi>Both</hi> Jew <hi>and</hi> Greek <hi>concur that men ſurvive</hi>
+               </l>
+               <l>
+                  <hi>Their mortal clay, and then are moſt alive.</hi>
+               </l>
+               <l>
+                  <hi>Nothing to nothing tends, and more ſay I,</hi>
+               </l>
+               <l>
+                  <hi>'Tis by a Metaphor my Saints can dye.</hi>
+               </l>
+               <l>
+                  <hi>God's not the God o'th' dead, but of the living,</hi>
+               </l>
+               <l>
+                  <hi>The Souls of</hi> Abraham, Iſaac, <hi>ſtill ſurviving.</hi>
+               </l>
+               <l>Moſes, Elias, <hi>in the Mount appears</hi>
+               </l>
+               <l>
+                  <hi>Alive, tho dead above two thouſand years.</hi>
+               </l>
+               <l>
+                  <pb n="45" facs="tcp:38186:25"/>
+                  <hi>When</hi> Jacob <hi>ſaw the garment of his ſon,</hi>
+               </l>
+               <l>
+                  <hi>Cries out, ſome Beaſt hath kill'd him, I'm undone;</hi>
+               </l>
+               <l>
+                  <hi>Whilſt thus lamenting his unhappy fate,</hi>
+               </l>
+               <l>Joſeph's <hi>alive, and Lives in Princely ſtate.</hi>
+               </l>
+               <l>
+                  <hi>Whilſt mine and thy dear friend do ſpriteleſs lie,</hi>
+               </l>
+               <l>
+                  <hi>Inexorable to thy ſighs and cry,</hi>
+               </l>
+               <l>
+                  <hi>They are not Dead, but are alive as I,</hi>
+               </l>
+               <l>
+                  <hi>Leaving their Grave-Cloaths for to wipe thine Eye.</hi>
+               </l>
+               <l>
+                  <hi>Haſt thou not ſeen a Student at his Book,</hi>
+               </l>
+               <l>
+                  <hi>Cloſe pent, and pris'ned in ſome private nook.</hi>
+               </l>
+               <l>
+                  <hi>He's then all Mind, all Soul, all Life, all Sprite,</hi>
+               </l>
+               <l>
+                  <hi>And most alive, when dead to Human ſight.</hi>
+               </l>
+               <l>
+                  <hi>Haſt thou not ſeen two Combatants Engage,</hi>
+               </l>
+               <l>
+                  <hi>Till one ſeems proſtrate dead upon the Stage;</hi>
+               </l>
+               <l>
+                  <hi>But when drawn off, dragg'd through a Poſtern Door,</hi>
+               </l>
+               <l>
+                  <hi>He is alive, as e're he was before.</hi>
+               </l>
+               <l>
+                  <hi>So have I ſeen the Branches of a Vine,</hi>
+               </l>
+               <l>
+                  <hi>At Winters ſeaſon faint away and pine.</hi>
+               </l>
+               <l>
+                  <hi>When at that inſtant each luxuriant ſhoot,</hi>
+               </l>
+               <l>
+                  <hi>Tho ſeeming dead, yet is alive at Root.</hi>
+               </l>
+               <l>
+                  <hi>And when the Sun imparts its gentle light,</hi>
+               </l>
+               <l>
+                  <hi>Each branch appears again in pregnant plight.</hi>
+               </l>
+               <l>
+                  <hi>Thy Life on Earth is hid with Chriſt above,</hi>
+               </l>
+               <l>
+                  <hi>And when the Sun of Righteouſneſs and Love,</hi>
+               </l>
+               <l>
+                  <hi>Quickneth thy Soul, all truth ſhall be diſplay'd,</hi>
+               </l>
+               <l>
+                  <hi>And latent forms of things which have been dead.</hi>
+               </l>
+               <l>
+                  <hi>Hast thou not heard the pangs and pains that come</hi>
+               </l>
+               <l>
+                  <hi>From teeming Mothers of a pregnant Womb?</hi>
+               </l>
+               <l>
+                  <hi>Preſaging, as</hi> Aurora <hi>doth the Morn,</hi>
+               </l>
+               <l>
+                  <hi>A welcome Infant ſhortly to be born.</hi>
+               </l>
+               <l>
+                  <pb n="46" facs="tcp:38186:26"/>
+                  <hi>Thus when Expiring Souls do vent their grones,</hi>
+               </l>
+               <l>
+                  <hi>Their ſighs, their ſobs, and ſuch like dying tones.</hi>
+               </l>
+               <l>
+                  <hi>Conclude upon this ſtruggle and this ſtrife,</hi>
+               </l>
+               <l>
+                  <hi>The ſouls new Birth into a better Life.</hi>
+               </l>
+               <l>
+                  <hi>Thus ſhaking off this cold clay clod of Earth,</hi>
+               </l>
+               <l>
+                  <hi>It joys to reaſſume its former birth.</hi>
+               </l>
+               <l>
+                  <hi>Faſt fixing on the center of its Reſt;</hi>
+               </l>
+               <l>
+                  <hi>Knows nothing, but this one thing, to be bleſt.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>How doth the Soul forget her noble Birth,</l>
+               <l>When ſhe's confin'd within theſe Walls of Earth;</l>
+               <l>Kiſſing her ſhadow, courting to her ſlave,</l>
+               <l>Thinking her ſelf no bigger than a grave.</l>
+               <l>As if a Bird that's ſoaring up on high,</l>
+               <l>Should caſt her eyes down on the Earth, and ſpie</l>
+               <l>Her ſhadow there, and ſay that it was I,</l>
+               <l>When ſhe's a climbing up the Towring Sky.</l>
+               <l>So doth the Soul by her dear Fleſh inclin'd,</l>
+               <l>Impreſs her falſe opinions on her mind.</l>
+               <l>Counting that only true what's in her ſight,</l>
+               <l>And what ſhe ſees and feels of bulky weight.</l>
+               <l>As if a Child pent in its Mothers Womb,</l>
+               <l>Sould ſay the world affords no larger Room.</l>
+               <l>So Children fancy there's no more of Sky,</l>
+               <l>Nor Earth, than what is bounded by the Eye.</l>
+               <l>The folly of our Souls no leſs appears,</l>
+               <l>As in our fancies here, ſo in our fears.</l>
+               <l>Fearful of Death, who ne're had fearful been,</l>
+               <l>Till he put on the Vizard of our ſin.</l>
+               <l>
+                  <pb n="47" facs="tcp:38186:26"/>When e're he ſtrikes me with his gentle Wand,</l>
+               <l>And takes me by the cold and clammy Hand.</l>
+               <l>He wounds my ſin, not me, ſince that I dye,</l>
+               <l>Only in dear and tender ſympathy,</l>
+               <l>To this vile Earth of mine, which is not I.</l>
+               <l>So have I heard a loving Mother cry.</l>
+               <l>When that her Child was ſtricken, Ah! I dye.</l>
+               <l>When all's but love, and care, and ſympathy,</l>
+               <l>To her dear Babe, for ſhe's alive as I.</l>
+               <l>Theſe Bodies we dwell in, they are but Tents,</l>
+               <l>Tenants can live without their Tenements.</l>
+               <l>Or in ſome others dwell; nor do we loſe</l>
+               <l>This Mortal Life, when ſtripped of our Cloaths.</l>
+               <l>
+                  <hi>Paul</hi> wiſh'd to be diſſolv'd to be with Chriſt,</l>
+               <l>Knowing that after death he ſhould exiſt.</l>
+               <l>For tho it was his pleaſure for to dye,</l>
+               <l>Yet as before, ſo after, he was I.</l>
+               <l>And I with Chriſt, and that is all in all;</l>
+               <l>St. <hi>Paul</hi> he was with Chriſt, Chriſt with St. <hi>Paul.</hi>
+               </l>
+               <l>Can Saints in Paradiſe e're faint and dye,</l>
+               <l>Having the Tree of Life thus ſtanding by?</l>
+               <l>Can they fall in Gods Arms? thirſt at a Well?</l>
+               <l>Freeze at a Fire? can ever Heaven be Hell?</l>
+               <l>Or can a Soul ſun'd in the beams of Light,</l>
+               <l>Be wrapt in ſhades of everlaſting Night?</l>
+               <l>Like to the dying Thief, I beg thine Ear</l>
+               <l>For to be open to my conſtant Pray'r.</l>
+               <l>When Death ſhall ſpred a cold ſhute on my Bed,</l>
+               <l>And wreath his Poppey Garland on my Head,</l>
+               <l>
+                  <pb n="48" facs="tcp:38186:27"/>Then cloſe the Caſements of my tender Eyes;</l>
+               <l>My Soul may cloſe with thee in Paradiſe!</l>
+               <l>Why doth th' Apoſtle Lord, report thy crying,</l>
+               <l>With a loud voice, when at the point of dying?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>When all my Members were upon the Wrack,</hi>
+               </l>
+               <l>
+                  <hi>And all the ſins o'th' World lay on my Back,</hi>
+               </l>
+               <l>
+                  <hi>No wonder that they made ſo great a crack.</hi>
+               </l>
+               <l>
+                  <hi>The Thunder never ſent forth ſuch a ſound,</hi>
+               </l>
+               <l>
+                  <hi>Nor ever Lightning pierc'd ſo deep a wound.</hi>
+               </l>
+               <l>
+                  <hi>It rent the Rocks, and made the Earth to quake,</hi>
+               </l>
+               <l>
+                  <hi>The Heav'ns went into Mourning for my ſake.</hi>
+               </l>
+               <l>
+                  <hi>To th' lower parts o'th' Earth my Voice is fled,</hi>
+               </l>
+               <l>
+                  <hi>It burſt the Tomb-ſtones, and awak'd the Dead.</hi>
+               </l>
+               <l>
+                  <hi>Hell heard the Voice too, the ſame poys'ned dart</hi>
+               </l>
+               <l>
+                  <hi>That pierc'd my ſide, did rend the ſinners heart.</hi>
+               </l>
+               <l>
+                  <hi>All Creatures mourn at my ſad obſequies,</hi>
+               </l>
+               <l>
+                  <hi>Nature muſt ſink when th' God of Nature dyes.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Grant that the Voice which clove the Rocky Pit,</l>
+               <l>May pierce my Heart too, harder far than it.</l>
+               <l>Let my Soul eccho back to this thy grone,</l>
+               <l>Shall the Rocks find thee Ears, and I have none?</l>
+               <l>I'th' Caverns of my Heart let thy voice ſound,</l>
+               <l>And let it reach the Heav'ns at the rebound.</l>
+               <l>My ſins thus ſmote by this thy weighty Rod,</l>
+               <l>I ſafe may ſay, this was the Son of God.</l>
+               <l>
+                  <pb n="49" facs="tcp:38186:27"/>Hear me Lord too, when at the point of Death,</l>
+               <l>My ſtrength doth fail me moſt, ſtrengthen my Faith.</l>
+               <l>Why is it ſaid or can be ſaid by thee,</l>
+               <l>My God! my God! why haſt forſaken me?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>This is the fruit of that imbitter'd Tree,</hi>
+               </l>
+               <l>
+                  <hi>Which once I taſted for the World and thee.</hi>
+               </l>
+               <l>
+                  <hi>Which ſets thy teeth on edg, but mine much more;</hi>
+               </l>
+               <l>
+                  <hi>Thou haſt the kernells of it, I the core.</hi>
+               </l>
+               <l>
+                  <hi>O ſting of ſin! all ſorrows met in one,</hi>
+               </l>
+               <l>
+                  <hi>Such ſorrows as were felt, but can't be known.</hi>
+               </l>
+               <l>
+                  <hi>View O my Child what a great good God is,</hi>
+               </l>
+               <l>
+                  <hi>And how thou waſt Created for that Bliſs.</hi>
+               </l>
+               <l>
+                  <hi>As knifes were made to cut, and ſtones do tend</hi>
+               </l>
+               <l>
+                  <hi>With their main force to th' center as their end.</hi>
+               </l>
+               <l>
+                  <hi>As Veſſels to be fill'd, and as a Glaſs</hi>
+               </l>
+               <l>
+                  <hi>Was only made to repreſent thy Face;</hi>
+               </l>
+               <l>
+                  <hi>So waſt thou ſhap't and form'd for Happineſs.</hi>
+               </l>
+               <l>
+                  <hi>What Torment Nature finds, hence may be gueſt,</hi>
+               </l>
+               <l>
+                  <hi>When ſhe's with held from th' center of her reſt.</hi>
+               </l>
+               <l>
+                  <hi>The Object of mans Bliſs is infinite,</hi>
+               </l>
+               <l>
+                  <hi>Having a quick ſenſe of it in his ſprite,</hi>
+               </l>
+               <l>
+                  <hi>And tending to it too, with all his might.</hi>
+               </l>
+               <l>
+                  <hi>To be rent from this bliſs, is ſuch a loſs,</hi>
+               </l>
+               <l>
+                  <hi>As ne're was felt on Earth, but on my Croſs.</hi>
+               </l>
+               <l>
+                  <hi>Emboſom'd in my Fathers Brest were I,</hi>
+               </l>
+               <l>
+                  <hi>None better knew where happineſs did lie,</hi>
+               </l>
+               <l>
+                  <hi>And must a Cloud withdraw it from my Eye?</hi>
+               </l>
+               <l>
+                  <pb n="50" facs="tcp:38186:28"/>
+                  <hi>Gods will was mine, my nature of the ſame,</hi>
+               </l>
+               <l>
+                  <hi>Born of a Virgin, and dy'd like a Lamb;</hi>
+               </l>
+               <l>
+                  <hi>Can innocence be made a publike ſhame?</hi>
+               </l>
+               <l>
+                  <hi>I came from Heaven, and know what joys were there,</hi>
+               </l>
+               <l>
+                  <hi>Reveal'd them too, and muſt I loſe them here?</hi>
+               </l>
+               <l>
+                  <hi>I was Gods Son; Gods Darling too were I.</hi>
+               </l>
+               <l>
+                  <hi>Can God forſake himſelf, his Son, and dye?</hi>
+               </l>
+               <l>
+                  <hi>The Eccho of thy ſin (my Child) ſays I.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Hear me, O Lord! and let thy dying throb,</l>
+               <l>Give all my curſed ſins their mortal ſtob.</l>
+               <l>How can I bear ſins damned Curſe for ay.</l>
+               <l>Which bow'd the Back of God all in a day!</l>
+               <l>Well may the damned wiſh they ne're had been</l>
+               <l>And call to th' Mountains for to hide them in,</l>
+               <l>More eaſe to bear a Mountain than a ſin.</l>
+               <l>Lord pardon what is paſt, and I'le amend,</l>
+               <l>Why ſhould I kiſs that knife that kill'd my Friend.</l>
+               <l>Which cut a wound ſo deep as ne're did Thunder,</l>
+               <l>That rends the Rocks, this God himſelf aſunder.</l>
+               <l>VVhy did my Lord, dying o'th' curſed Poſt,</l>
+               <l>Expreſs his Death by giving up the Ghoſt?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>VVhen Nature most did fail, my cries were most,</hi>
+               </l>
+               <l>
+                  <hi>To ſhew how freely I gave up the Ghoſt.</hi>
+               </l>
+               <l>
+                  <hi>None takes away my Life, nor none can crave it,</hi>
+               </l>
+               <l>
+                  <hi>But God from whence I had it, he must have it.</hi>
+               </l>
+               <l>
+                  <pb n="51" facs="tcp:38186:28"/>
+                  <hi>Know that theſe dying words, this truth implies,</hi>
+               </l>
+               <l>
+                  <hi>The Fragrant Odour of my Sacrifice.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Pagans <hi>thought their Gods would not impart</hi>
+               </l>
+               <l>
+                  <hi>Their favours to a Victim wanting heart.</hi>
+               </l>
+               <l>
+                  <hi>Or if it came to paſs the beast had cry'd,</hi>
+               </l>
+               <l>
+                  <hi>Or loud, or strugled before he dy'd.</hi>
+               </l>
+               <l>
+                  <hi>VVhen e're the</hi> Jew <hi>did Sacrifice a Beaſt,</hi>
+               </l>
+               <l>
+                  <hi>It was to be his own, and of the best.</hi>
+               </l>
+               <l>
+                  <hi>Chiefly a Lamb of pure and ſpotleſs Feature,</hi>
+               </l>
+               <l>
+                  <hi>A meek, a harmleſs, and a gentle Creature.</hi>
+               </l>
+               <l>
+                  <hi>After the Victim had incurd his death,</hi>
+               </l>
+               <l>
+                  <hi>He was conſumed by a Heavenly Breath.</hi>
+               </l>
+               <l>
+                  <hi>Nor did this ſacrifice acceptance find,</hi>
+               </l>
+               <l>
+                  <hi>Unleſs performed by a grateful mind.</hi>
+               </l>
+               <l>
+                  <hi>That ſweet Perfume, that incenſe that did ſavour</hi>
+               </l>
+               <l>
+                  <hi>The ſacrifice, and ſo procured favour.</hi>
+               </l>
+               <l>
+                  <hi>The Jewiſh Rites were relative of mine,</hi>
+               </l>
+               <l>
+                  <hi>Who was a Sacrifice pure and Divine.</hi>
+               </l>
+               <l>
+                  <hi>A Male, the choiceſt, firſt-born ſet apart,</hi>
+               </l>
+               <l>
+                  <hi>Form'd, fram'd, and faſhioned by Heavenly Art.</hi>
+               </l>
+               <l>
+                  <hi>And when I did the wrath of God atone,</hi>
+               </l>
+               <l>
+                  <hi>'Twas by a free-will Off'ring of my own.</hi>
+               </l>
+               <l>
+                  <hi>Making the Jewiſh Mincha Off'ring good,</hi>
+               </l>
+               <l>
+                  <hi>When freely pouring out my Life and Blood.</hi>
+               </l>
+               <l>
+                  <hi>Led as a Lamb, and as a Lamb too dy'd,</hi>
+               </l>
+               <l>
+                  <hi>Cloſing my Mouth, but opening wide my ſide.</hi>
+               </l>
+               <l>
+                  <hi>My Sacrifice it was my precious Life,</hi>
+               </l>
+               <l>
+                  <hi>My free conſent, the Sacrificing Knife.</hi>
+               </l>
+               <l>
+                  <hi>My Godhead, what the Altar did of Old,</hi>
+               </l>
+               <l>
+                  <hi>It ſanctifi'd the Gift, and made it Gold.</hi>
+               </l>
+               <l>
+                  <pb n="52" facs="tcp:38186:29"/>
+                  <hi>I was conſumed too, as from above,</hi>
+               </l>
+               <l>
+                  <hi>With Flagrant Flames of everlaſting Love.</hi>
+               </l>
+               <l>
+                  <hi>Look as</hi> Eliah <hi>when about to dye,</hi>
+               </l>
+               <l>
+                  <hi>Mounts in a Fiery Chair, then climbs the Sky,</hi>
+               </l>
+               <l>
+                  <hi>Dropping his Mantle to the ſtanders by.</hi>
+               </l>
+               <l>
+                  <hi>In fervent Love to man, from Heaven I came,</hi>
+               </l>
+               <l>
+                  <hi>And thither went, all in a Fiery Flame.</hi>
+               </l>
+               <l>
+                  <hi>Expiring out to God my Vital Breath,</hi>
+               </l>
+               <l>
+                  <hi>Caſting my Bodies Mantle on the Earth.</hi>
+               </l>
+               <l>
+                  <hi>So dying perſons commonly commend</hi>
+               </l>
+               <l>
+                  <hi>Their choicest Treaſure to their choicest friend.</hi>
+               </l>
+               <l>
+                  <hi>To thee my Child, I left my precious Merit,</hi>
+               </l>
+               <l>
+                  <hi>My Body to my Friends, for them to bury 't,</hi>
+               </l>
+               <l>
+                  <hi>And to my God I did commend my ſpirit.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>The Death of Saints, as <hi>David</hi> doth Record</l>
+               <l>Is precious in the aſpect of the Lord<note n="*" place="bottom">
+                     <hi>Pſal.</hi> 116.15.</note>.</l>
+               <l>When <hi>Enoch</hi> walk'd with God, God clos'd his eye;</l>
+               <l>Nor known, nor heard, nor ſeen he was to dye.</l>
+               <l>
+                  <hi>Abr'am</hi> gave up the Ghoſt, and therefore bleſt.</l>
+               <l>Gods Boſome was the pillow of his reſt.</l>
+               <l>When <hi>Moſes</hi> dy'd, ſuch was the Jewiſh Faith,</l>
+               <l>'Twas by a Kiſs from God, his Soul in Death</l>
+               <l>Being extracted by a Heavenly Breath.</l>
+               <l>Scaree can we ſay, <hi>Eliah</hi> ever dy'd,</l>
+               <l>Since both in Soul and Body he beſtired</l>
+               <l>The Fiery Chair, and unto Heaven did ride.</l>
+               <l>Lord let me now depart, Old <hi>Simeon</hi> cryes,</l>
+               <l>And like a Swan ſings ſweet before he dies.</l>
+               <l>
+                  <pb n="53" facs="tcp:38186:29"/>Sweetly expiring by ſuch tempting Charms!</l>
+               <l>As he in Chriſts, and Chriſt within his Arms.</l>
+               <l>Saint <hi>Paul</hi> perceiving death a drawing on,</l>
+               <l>Calls it no more than diſſolution:</l>
+               <l>And ſo the Tent-maker took down his Tent,</l>
+               <l>VVithout a Crack, or Noiſe, or any Rent.</l>
+               <l>This is the truth of what the Wiſeman<note n="‖" place="bottom">
+                     <hi>Prov.</hi> 10.22.</note> ſaith,</l>
+               <l>That Righteouſneſs deliv'reth from death:</l>
+               <l>Since that his Darts can ne'r be felt as keen,</l>
+               <l>Till they be whetted at the forge of ſin:</l>
+               <l>Nor doth he ever ride the pale-fac'd<note n="†" place="bottom">
+                     <hi>Revel.</hi> 6.8.</note> Horſe,</l>
+               <l>Till Guilt and Hell engageth in the Courſe.</l>
+               <l>Who wrongs his Prince, and what is more, his God,</l>
+               <l>Muſt dread the Uſher of the ſable Rod.</l>
+               <l>So have I ſeen a Pris'ner in a ſwound,</l>
+               <l>When at th' Aſſize he heard the Trumpet ſound;</l>
+               <l>The Muſick's good, but ſuch he cannot find it,</l>
+               <l>Since that he knows the Judg comes cloſe behind it.</l>
+               <l>Such is the Muſick of a Paſſing-Bell,</l>
+               <l>Each ſinner knows the meaning too too well,</l>
+               <l>Death goes before, and after follows Hell.</l>
+               <l>Who makes his ſoul and body of one cruſt,</l>
+               <l>Of Heaven and heavenly things can have no guſt,</l>
+               <l>Nor can with eaſe be turned into duſt.</l>
+               <l>Who ſtews his fleſh in Riot and Exceſs,</l>
+               <l>And lull'd aſleep with ſteams of drunkenneſs,</l>
+               <l>That ſoul can never hope in Heav'n to dwell,</l>
+               <l>Since he's deſcended to the loweſt Hell.</l>
+               <l>
+                  <pb n="54" facs="tcp:38186:30"/>Aethereal Manſions are too pure and clear,</l>
+               <l>For him to hope to have a dwelling there:</l>
+               <l>That ſtate of bliſs, 'twould be his ſtate of pain,</l>
+               <l>His luſts would poiſe him down to Hell again.</l>
+               <l>Who ſtrives to make his Priſon ſtrong within,</l>
+               <l>As 'tis without, by gratifying ſin;</l>
+               <l>That captive muſt conclude without all doubt,</l>
+               <l>His labour muſt be painful to get out:</l>
+               <l>And that which pains him moſt, and grieves him more,</l>
+               <l>He's worſe, got out, than e're he was before.</l>
+               <l>Nor could that Goſpel-fool this world <note n="†" place="bottom">
+                     <hi>Luke</hi> 12.20.</note> depart,</l>
+               <l>Till death by force of arms tore out his heart.</l>
+               <l>Knock off my chains (dear Lord) and make me free,</l>
+               <l>Dead to the world, and the world dead to me.</l>
+               <l>Thus dying in the fleſh, and to it more,</l>
+               <l>Death can compleat, but what is done before:</l>
+               <l>Laying his gentle hand upon my back,</l>
+               <l>My ſoul may part from hence without a crack.</l>
+               <l>My ſpirit failing, and my ſtrength exhauſt,</l>
+               <l>I freely may like thee give up the Ghoſt.</l>
+               <l>Why did the Sun (my Lord) withdraw his Light,</l>
+               <l>Changing bright day into a darkſom night?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>At a full Moon the Sun eclips'd, to ſee</hi>
+               </l>
+               <l>
+                  <hi>It was both Miracle and Myſtery:</hi>
+               </l>
+               <l>
+                  <hi>A Glorious Star points out my Glorious Birth;</hi>
+               </l>
+               <l>
+                  <hi>A greater Star's eclipſed at my death:</hi>
+               </l>
+               <l>
+                  <pb n="55" facs="tcp:38186:30"/>
+                  <hi>By both conclude this truth was verifi'd,</hi>
+               </l>
+               <l>
+                  <hi>'Twas God that once was born, 'twas God that dy'd.</hi>
+               </l>
+               <l>
+                  <hi>This dreadful darkneſs (child) had ne'r been ſeen,</hi>
+               </l>
+               <l>
+                  <hi>Wer't not for Thine, the</hi> Jews, <hi>and</hi> Adam's <hi>ſin.</hi>
+               </l>
+               <l>
+                  <hi>For ſo in Holy Writ 'tis often</hi>
+                  <note n="¶" place="bottom">
+                     <hi>Ezek.</hi> 32.7, 8.</note> 
+                  <hi>ſaid,</hi>
+               </l>
+               <l>
+                  <hi>Gods Wrath to ſin by darkneſs was</hi>
+                  <note n="‖" place="bottom">
+                     <hi>Joel</hi> 2.10.</note> 
+                  <hi>diſplaid.</hi>
+               </l>
+               <l>
+                  <hi>When God was wroth with</hi> Pharaoh <hi>and his</hi>
+                  <note n="†" place="bottom">
+                     <hi>Amos</hi> 8.9, 10.</note> 
+                  <hi>Hoſt,</hi>
+               </l>
+               <l>
+                  <hi>Thick darkneſs overſpread th'</hi> Egyptian <hi>Coaſt.</hi>
+               </l>
+               <l>
+                  <hi>That dreadful day of doom ſhall make this good,</hi>
+               </l>
+               <l>
+                  <hi>The Sun to darkneſs turns, the Moon to blood.</hi>
+               </l>
+               <l>
+                  <hi>So baſe is ſin, and of ſo foul a feature,</hi>
+               </l>
+               <l>
+                  <hi>That neither God can view it, nor his creature.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Who would not hate his ſin, and fear his God,</l>
+               <l>That for its baſeneſs, and this for his Rod.</l>
+               <l>Tho God's not cloath'd with paſſions of man,</l>
+               <l>His anger far outgoes mans Paſſion:</l>
+               <l>What Tyrants frown like to the louring sky,</l>
+               <l>Ratling down Fire and Brimſtone from on high.</l>
+               <l>The Lions roaring, and the Thunders noiſe,</l>
+               <l>Is but the Eccho of his angry Voice:</l>
+               <l>Night-hag of Hell, clad in its black Attire,</l>
+               <l>Is but the ſhadow of his dreadful Ire:</l>
+               <l>If darkneſs be ſo full of fear and fright,</l>
+               <l>What is the darkneſs of Eternal Night?</l>
+               <l>O ſin of Hell! or rather Hell of ſin;</l>
+               <l>Darkneſs without, and darkneſs too within!</l>
+               <l>
+                  <pb n="56" facs="tcp:38186:31"/>But here my doubts return to me again,</l>
+               <l>Why was the Vail o'th' Temple rent in twain?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>The Temple of the</hi> Jews <hi>did typifie</hi>
+               </l>
+               <l>
+                  <hi>This lower World, and that above the sky:</hi>
+               </l>
+               <l>
+                  <hi>The outward Court, this outward world did mean,</hi>
+               </l>
+               <l>
+                  <hi>Where all do meet in, and where beaſts are ſlain.</hi>
+               </l>
+               <l>
+                  <hi>That inward Court, wherein God had his Throne,</hi>
+               </l>
+               <l>
+                  <hi>By that the Heaven of Heavens is clearly ſhown:</hi>
+               </l>
+               <l>
+                  <hi>To this moſt Holy Place none could prevail</hi>
+               </l>
+               <l>
+                  <hi>To enter in, 'twas guarded with a Vail;</hi>
+               </l>
+               <l>
+                  <hi>Now this Vail was thy ſins that diſmal ſhroud,</hi>
+               </l>
+               <l>
+                  <hi>Which on the place of glory draws a cloud:</hi>
+               </l>
+               <l>
+                  <hi>This is that Cherub who with flaming Rod,</hi>
+               </l>
+               <l>
+                  <hi>Bars up thy paſſage to the Living God:</hi>
+               </l>
+               <l>
+                  <hi>Nor was it meet, till th' bars of Hell be broken,</hi>
+               </l>
+               <l>
+                  <hi>This paſſage-gate to Heav'n ſhould e're be open.</hi>
+               </l>
+               <l>
+                  <hi>Whoſe ſins do chain them to the poſts of Hell,</hi>
+               </l>
+               <l>
+                  <hi>In heav'nly places are unfit to dwell.</hi>
+               </l>
+               <l>
+                  <hi>In likeneſs of thy ſinful fleſh and blood,</hi>
+               </l>
+               <l>
+                  <hi>Thy ſins I did atone upon the Wood:</hi>
+               </l>
+               <l>
+                  <hi>And when my fleſh was torn with dying pain,</hi>
+               </l>
+               <l>
+                  <hi>Thy ſins with Temples vail were rent in twain:</hi>
+               </l>
+               <l>
+                  <hi>Now is the Vail pull'd off from</hi> Moſes <hi>Face,</hi>
+               </l>
+               <l>
+                  <hi>And the way plain'd to the moſt Holy Place:</hi>
+               </l>
+               <l>
+                  <hi>Where neither Peaſant, Prieſt, nor King did venture</hi>
+               </l>
+               <l>
+                  <hi>For to approach, all holy ſouls may enter.</hi>
+               </l>
+               <l>
+                  <hi>Nor is man reconcil'd to God. alone,</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Jew <hi>and</hi> Gentile <hi>too, here meet in one.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="57" facs="tcp:38186:31"/>
+               <speaker>SOUL.</speaker>
+               <l>Grant that thy voice which made the vail to part,</l>
+               <l>May rend the Vail of ſin off from my heart!</l>
+               <l>My ſin's the Gulf that <hi>Dives</hi> knew ſo well,</l>
+               <l>Makes that vaſt diſtance between Heav'n and Hell.</l>
+               <l>Let this wide ſpace be fill'd with thy great Merit,</l>
+               <l>And circumciſe my heart too with thy Spirit.</l>
+               <l>What boots it Lord, if Heaven's laid ope to me,</l>
+               <l>If that my ſouls unfit for Heaven and Thee.</l>
+               <l>Silence my doubts, dear Lord, and make this clear,</l>
+               <l>Why was thy ſide once pierced with a ſpear?</l>
+               <l>From thence came Water, and from thence came Blood:</l>
+               <l>Methinks there muſt be ſomething underſtood.</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Near to the Heart, ſo Providence thought fit,</hi>
+               </l>
+               <l>
+                  <hi>A Cruſe of VVater's plac'd, to cool its heat.</hi>
+               </l>
+               <l>
+                  <hi>VVhen Blood and VVater from my ſide burſt out,</hi>
+               </l>
+               <l>
+                  <hi>That I was truly dead, thou needſt not doubt.</hi>
+               </l>
+               <l>
+                  <hi>Except it did appear I truly di'd,</hi>
+               </l>
+               <l>
+                  <hi>My Reſurrection can't be verifi'd:</hi>
+               </l>
+               <l>
+                  <hi>VVhen</hi> Moſes <hi>in the Deſart ſtrook the Rock,</hi>
+               </l>
+               <l>
+                  <hi>He ſmote my ſide with a Prophetick Knock.</hi>
+               </l>
+               <l>
+                  <hi>The Covenant of old was then made good,</hi>
+               </l>
+               <l>
+                  <hi>VVhen ratifi'd by VVater and by</hi> 
+                  <note n="‖" place="bottom">
+                     <hi>Heb.</hi> 9.19.</note> 
+                  <hi>Blood,</hi>
+               </l>
+               <l>
+                  <hi>And ſo the Covenant that did come after,</hi>
+               </l>
+               <l>
+                  <hi>It was confirmed too by Blood and VVater.</hi>
+               </l>
+               <l>
+                  <pb n="58" facs="tcp:38186:32"/>
+                  <hi>This VVater and this Blood th' Apoſtle ſaith,</hi>
+               </l>
+               <l>
+                  <hi>Are the great witneſſes o'th' Chriſtian Faith.</hi>
+               </l>
+               <l>
+                  <hi>Pure as the water, ſuch my Doctrine was,</hi>
+               </l>
+               <l>
+                  <hi>My Patience was exemplar on the croſs.</hi>
+               </l>
+               <l>
+                  <hi>What I have teached, you may build your faith on;</hi>
+               </l>
+               <l>
+                  <hi>And what I promis'd, that I took my death on.</hi>
+               </l>
+               <l>
+                  <hi>In the old Law there's no atonement made,</hi>
+               </l>
+               <l>
+                  <hi>Till the blood of the Sacrifice was ſhed.</hi>
+               </l>
+               <l>
+                  <hi>That ſacrificing Rite was then appli'd</hi>
+               </l>
+               <l>
+                  <hi>To me, when that the Dagger pierc'd my ſide:</hi>
+               </l>
+               <l>
+                  <hi>This bloody ſpout, once gaged for thy ſin,</hi>
+               </l>
+               <l>
+                  <hi>Lets my Life out, and lets thy death come in:</hi>
+               </l>
+               <l>
+                  <hi>My Blood comes forth, thy Pardon for to merit,</hi>
+               </l>
+               <l>
+                  <hi>Water concurreth for to cleanſe thy ſpirit:</hi>
+               </l>
+               <l>
+                  <hi>For ſo of old, to make a Leper pure,</hi>
+               </l>
+               <l>
+                  <hi>Blood mixt with Water muſt effect the cure.</hi>
+               </l>
+               <l>
+                  <hi>Such Cordials from this Lymbeck were diſtill'd,</hi>
+               </l>
+               <l>
+                  <hi>Thy Font with one, thy Cup with others ſill'd.</hi>
+               </l>
+               <l>
+                  <hi>As Woman firſt was fram'd from</hi> Adam's <hi>ſide,</hi>
+               </l>
+               <l>
+                  <hi>So from my Breaſt was form'd the Church my Bride;</hi>
+               </l>
+               <l>
+                  <hi>Firſt form'd by vital Water, then my Blood</hi>
+               </l>
+               <l>
+                  <hi>And body both, became her ſpritely food.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>What greater favour could my Lord impart,</l>
+               <l>Than through his ſide, that I may view his heart,</l>
+               <l>More wounded by his Love than Daggers Art<g ref="char:punc">▪</g>
+               </l>
+               <l>What greater love than this was ever read?</l>
+               <l>My Lord will live in me when he is dead.</l>
+               <l>The Croſs diſplay'd thy Death, 'twas thy intent,</l>
+               <l>Thy Life ſhould be convey'd by th' Sacrament.</l>
+               <l>
+                  <pb n="59" facs="tcp:38186:32"/>Once to my fleſh thou didſt thy ſelf impart,</l>
+               <l>Nothing will pleaſe thee now, except my heart.</l>
+               <l>What ſaid <hi>(Hypocrates)</hi> is here made good,</l>
+               <l>If all the Spirits in the Creatures blood,</l>
+               <l>Were once extracted and imbibed, then</l>
+               <l>Men that are mortal would be immortal men.</l>
+               <l>Who drinks thy blood, draws in thy vital breath,</l>
+               <l>Muſt find a life, yea in the Jaws of Death.</l>
+               <l>Thou art the Tree of Life in Paradiſe;</l>
+               <l>VVhoſe Faith can ſtrongly feed on thee, ne'r dies.</l>
+               <l>Let thy VVounds and thy Blood, Lord make me whole,</l>
+               <l>And with this water purifie my ſoul.</l>
+               <l>I beg thy Favour (Lord) what did't betoken,</l>
+               <l>Not one bone of thy body ſhall be broken?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>God counts our hairs, and heareth all our grones;</hi>
+               </l>
+               <l>
+                  <hi>And is in Cov'nant with our very bones.</hi>
+               </l>
+               <l>
+                  <hi>That mine might be preſerv'd, I'd the defence</hi>
+               </l>
+               <l>
+                  <hi>Of Promiſe, Prophecy, and Providence.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Jew <hi>wont break a bone o'th' Paſchal Lamb</hi>
+               </l>
+               <l>
+                  <hi>VVhen ſacrific'd; that Sacrifice I am:</hi>
+               </l>
+               <l>
+                  <hi>VVhat in my natural body's underſtood,</hi>
+               </l>
+               <l>
+                  <hi>My body Myſtical ſhall make it good.</hi>
+               </l>
+               <l>
+                  <hi>My Bride ſo dearly bought, I'le love and cheriſh,</hi>
+               </l>
+               <l>
+                  <hi>Not the leaſt member of her once ſhall periſh:</hi>
+               </l>
+               <l>
+                  <hi>My piercing eye beholds each duſt, and whither</hi>
+               </l>
+               <l>
+                  <hi>Retir'd, my hand can bind up all together,</hi>
+               </l>
+               <l>
+                  <hi>I di'd, 'tis true, but yet I live, and I</hi>
+               </l>
+               <l>
+                  <hi>As little can in my poor Member dye.</hi>
+               </l>
+               <l>
+                  <pb n="60" facs="tcp:38186:33"/>
+                  <hi>My fleſh and blood, my ſoul and life he is,</hi>
+               </l>
+               <l>
+                  <hi>Can ſuch a member ever fail of bliſs?</hi>
+               </l>
+               <l>
+                  <hi>VVill not God cheriſh that life he's begun,</hi>
+               </l>
+               <l>
+                  <hi>Or can you cut a Ray off from the Sun?</hi>
+               </l>
+               <l>
+                  <hi>The deareſt husband may forſake a wife,</hi>
+               </l>
+               <l>
+                  <hi>But God whiles God can ne're forego his Life.</hi>
+               </l>
+               <l>
+                  <hi>Souls full of Goodneſs, Truth, Integrity,</hi>
+               </l>
+               <l>
+                  <hi>The Life and Spirit of the Deity</hi>
+               </l>
+               <l>
+                  <hi>Then ceaſes for to live when God can dye.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Lord hear my voice, and liſten to my cry,</l>
+               <l>Reach me thy hand, or elſe I faint and dye!</l>
+               <l>VVhat loving Mother but will hear the crying</l>
+               <l>Of her dear Child when at the point of dying?</l>
+               <l>Suffer not thy dear ſelf to be in pain,</l>
+               <l>VVhy ſhould my Lord and Saviour dye again?</l>
+               <l>VVhat life I have in me, 'tis thine alone,</l>
+               <l>Let not thy foes and mine once break a bone,</l>
+               <l>Nor ſuffer me to ſee corruption.</l>
+               <l>Vouchſafe (my Lord) this ſecret to diſcloſe,</l>
+               <l>VVhy at thy death we read the dead aroſe?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>Under that curſe of dying thou ſhalt dye</hi>
+               </l>
+               <l>
+                  <hi>A double death, for ſin did couched lye:</hi>
+               </l>
+               <l>
+                  <hi>Sin rob'd thy body of its vital breath,</hi>
+               </l>
+               <l>
+                  <hi>And caus'd thy ſoul to dye a ſecond death:</hi>
+               </l>
+               <l>
+                  <hi>My body from my ſoul was rent o'th' Croſs;</hi>
+               </l>
+               <l>
+                  <hi>My ſoul from God o'th' two the greater loſs.</hi>
+               </l>
+               <l>
+                  <pb n="61" facs="tcp:38186:33"/>
+                  <hi>But yet by dying thus, 'twas truly ſhown,</hi>
+               </l>
+               <l>
+                  <hi>Thy double death I ſatisfi'd in one.</hi>
+               </l>
+               <l>
+                  <hi>I loos'd deaths bonds, burſting Hell-gates aſunder,</hi>
+               </l>
+               <l>
+                  <hi>Out comes the dead, and tells abroad the wonder.</hi>
+               </l>
+               <l>
+                  <hi>Haſt thou not heard nor ſeen that wonted Faſhion</hi>
+               </l>
+               <l>
+                  <hi>Of Potent Princes at their Coronation,</hi>
+               </l>
+               <l>
+                  <hi>To make their Glory and their Joy combine,</hi>
+               </l>
+               <l>
+                  <hi>The very Conduit-Pipes muſt flow with VVine;</hi>
+               </l>
+               <l>
+                  <hi>To ſhew withal their Grace and Clemency,</hi>
+               </l>
+               <l>
+                  <hi>The Priſon's open, and the captives free.</hi>
+               </l>
+               <l>
+                  <hi>So in Triumphal Conqueſts, Princes pleaſe</hi>
+               </l>
+               <l>
+                  <hi>To caſt about their Gifts and Largeſſes.</hi>
+               </l>
+               <l>
+                  <hi>My Croſs it was my Throne, tho curſt by ſin,</hi>
+               </l>
+               <l>
+                  <hi>Where I was conſecrated Prieſt and King.</hi>
+               </l>
+               <l>
+                  <hi>When that my ſide was pierced by my foe,</hi>
+               </l>
+               <l>
+                  <hi>My blood more choice than wine did freely flow:</hi>
+               </l>
+               <l>
+                  <hi>Having diſcharg'd thy debts upon the Tree,</hi>
+               </l>
+               <l>
+                  <hi>Both from the Grave and Hell I ſet thee free,</hi>
+               </l>
+               <l>
+                  <hi>And here I made the Goal-delivery.</hi>
+               </l>
+               <l>
+                  <hi>Mounting on my Triumphant Chariot, I</hi>
+               </l>
+               <l>
+                  <hi>Led ſin and Satan in captivity,</hi>
+               </l>
+               <l>
+                  <hi>Dragging them at my Chariot-Wheels, and then</hi>
+               </l>
+               <l>
+                  <hi>I freely gave my gifts and grace to men.</hi>
+               </l>
+               <l>
+                  <hi>Such was the glorious conqueſt of my Croſs,</hi>
+               </l>
+               <l>
+                  <hi>That ſin, death, grave, and hell, my Vaſſals was.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>If ſo, my Lord, why am I dead in ſin?</l>
+               <l>As if what thou haſt done had never been.</l>
+               <l>
+                  <pb n="62" facs="tcp:38186:34"/>Since thou haſt broke the Priſon of the Grave,</l>
+               <l>Why doth my ſin fetter me like a ſlave,</l>
+               <l>Making my ſoul forget her former birth,</l>
+               <l>Sinking her deeper in this mud of earth?</l>
+               <l>And tho within this Clay ſhe can't ſtay long,</l>
+               <l>Why ſhould ſhe ſtrive to make her Priſon ſtrong?</l>
+               <l>Since that my ſoul's enlarg'd from th' nether Hell,</l>
+               <l>I will no more in that dark dungeon dwell:</l>
+               <l>Since thou haſt paid ſo dearly for thy ſlave,</l>
+               <l>Shall not my Lord his dear-bought purchaſe have?</l>
+               <l>My debts are paid, ſhall I begin the ſcore,</l>
+               <l>And load thy Croſs with ſins and ſorrows more?</l>
+               <l>Oh that the breath of life would breath upon</l>
+               <l>This rotten Carkaſs, and this dryed Bone,</l>
+               <l>That I may teſtifie two Truths in one,</l>
+               <l>Thy mighty Death, and Reſurrection!</l>
+               <l>One queſtion more, VVhy did th' Apoſtles all</l>
+               <l>So faithfully record thy Burial?</l>
+            </sp>
+            <sp>
+               <speaker>CHRIST.</speaker>
+               <l>
+                  <hi>The Prophet</hi> David <hi>did this Truth</hi>
+                  <note n="†" place="bottom">
+                     <hi>Pſal.</hi> 16.</note> 
+                  <hi>foretell,</hi>
+               </l>
+               <l>
+                  <hi>Thou wilt not leave my ſoul i'th' nether Hell.</hi>
+               </l>
+               <l>
+                  <hi>This from</hi> Iſaiah <hi>too may be</hi> 
+                  <note n="¶" place="bottom">
+                     <hi>Iſa.</hi> 55.9.</note> 
+                  <hi>infer'd,</hi>
+               </l>
+               <l>
+                  <hi>I dy'd with wicked, with the rich inter'd.</hi>
+               </l>
+               <l>Joſeph<hi>'s Pit,</hi> Daniel<hi>'s Den, and</hi> Jonah<hi>'s Whale</hi>
+               </l>
+               <l>
+                  <hi>VVere but the umbrage of my Burial.</hi>
+               </l>
+               <l>
+                  <hi>'Tis a religious ſeed in nature bred,</hi>
+               </l>
+               <l>
+                  <hi>All Nations do prepare t' inter the dead:</hi>
+               </l>
+               <l>
+                  <pb n="63" facs="tcp:38186:34"/>
+                  <hi>Such was the cuſtom of th' Egyptian Sages,</hi>
+               </l>
+               <l>
+                  <hi>Holding the Soul to live immortal Ages,</hi>
+               </l>
+               <l>
+                  <hi>Leſt after death the ſoul might tranſmigrate,</hi>
+               </l>
+               <l>
+                  <hi>The body was embalm'd in Princely State,</hi>
+               </l>
+               <l>
+                  <hi>That both uniting, they might fruſtrate death,</hi>
+               </l>
+               <l>
+                  <hi>Aping an Immortality on Earth.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Grecian <hi>Rites, tho different, did tend</hi>
+               </l>
+               <l>
+                  <hi>To perfect and compleat the ſelf-ſame end;</hi>
+               </l>
+               <l>
+                  <hi>Fetching the Souls Original no higher,</hi>
+               </l>
+               <l>
+                  <hi>Than that its nature was like unto Fire;</hi>
+               </l>
+               <l>
+                  <hi>The Piles erected, and the Bodies burned:</hi>
+               </l>
+               <l>
+                  <hi>By this the ſoul to her firſt ſtate returned:</hi>
+               </l>
+               <l>
+                  <hi>The body too, thus purged in the fire,</hi>
+               </l>
+               <l>
+                  <hi>Like to the ſoul, may never more expire.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Romans <hi>did no leſs their bodies burn,</hi>
+               </l>
+               <l>
+                  <hi>Cloſing the aſhes in ſepulchral Urn.</hi>
+               </l>
+               <l>
+                  <hi>The corps drencht of its dregs was thus calcin'd,</hi>
+               </l>
+               <l>
+                  <hi>And made Aethereal, like to the mind:</hi>
+               </l>
+               <l>
+                  <hi>Theſe uncorrupted Aſhes did preſage</hi>
+               </l>
+               <l>
+                  <hi>Their firm belief of an immortal age.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Jews <hi>beſt taught of God, abhorred burning,</hi>
+               </l>
+               <l>
+                  <hi>The ſoul next aftr death to God returning;</hi>
+               </l>
+               <l>
+                  <hi>The body was committed to the Earth,</hi>
+               </l>
+               <l>
+                  <hi>Its proper Parent, whence it had its birth.</hi>
+               </l>
+               <l>
+                  <hi>It was Gods penal law too, ſinners muſt,</hi>
+               </l>
+               <l>
+                  <hi>As duſt they were, return unto the duſt.</hi>
+               </l>
+               <l>
+                  <hi>Nor did Gods Law conſign men to this fate,</hi>
+               </l>
+               <l>
+                  <hi>Without a proſpect of a future ſtate:</hi>
+               </l>
+               <l>
+                  <hi>VVho di'd a curſed death, ſo 'tis</hi>
+                  <note n="‖" place="bottom">
+                     <hi>Deut.</hi> 29.</note> 
+                  <hi>infer'd,</hi>
+               </l>
+               <l>
+                  <hi>VVas afterwards expos'd, but then inter'd;</hi>
+               </l>
+               <l>
+                  <pb n="64" facs="tcp:38186:35"/>
+                  <hi>Leſt periſhing o'th tree may thence create</hi>
+               </l>
+               <l>
+                  <hi>A foul opinion of a future state:</hi>
+               </l>
+               <l>
+                  <hi>For ſo Gods image would have been beli'd;</hi>
+               </l>
+               <l>
+                  <hi>As if the ſoul like to the body di'd;</hi>
+               </l>
+               <l>
+                  <hi>The body too prey'd on by winged Fowl,</hi>
+               </l>
+               <l>
+                  <hi>Should never more return unto the ſoul:</hi>
+               </l>
+               <l>
+                  <hi>The Waſhings, Oyntments, Gums, with other coſt:</hi>
+               </l>
+               <l>
+                  <hi>Suggeſts this Truth, None that are dead are loſt.</hi>
+               </l>
+               <l>
+                  <hi>Nor can we</hi> (Judas-<hi>like) this queſtion ſtate,</hi>
+               </l>
+               <l>
+                  <hi>Why was this Oyntment ſpent at ſuch a rate?</hi>
+               </l>
+               <l>
+                  <hi>VVhy are our Cloaths wrapt up, ſo neatly ſpread,</hi>
+               </l>
+               <l>
+                  <hi>But that the Grave's a Wardrope for the Dead?</hi>
+               </l>
+               <l>
+                  <hi>VVhen th' Sacrifice o'th' Altar was conſum'd,</hi>
+               </l>
+               <l>
+                  <hi>The Aſhes by the Prieſt was then aſſum'd.</hi>
+               </l>
+               <l>
+                  <hi>Then Faithfully depoſited abroad,</hi>
+               </l>
+               <l>
+                  <hi>As Relicks that were Relative to God.</hi>
+               </l>
+               <l>
+                  <hi>The Earth, the Elements, the ſpacious Globes,</hi>
+               </l>
+               <l>
+                  <hi>Are but one cheſt to keep my Servants Robes.</hi>
+               </l>
+               <l>
+                  <hi>The Keys are hung upon my Royal Throne,</hi>
+               </l>
+               <l>
+                  <hi>And when I turn my hand, all know their own.</hi>
+               </l>
+               <l>
+                  <hi>None is ſo rich in death, but that he hath</hi>
+               </l>
+               <l>
+                  <hi>Either a Monument, or Epitaph;</hi>
+               </l>
+               <l>
+                  <hi>Nor none ſo poor, but that he thinks it meet,</hi>
+               </l>
+               <l>
+                  <hi>A ſtone ſhould Crown his Head, or ſhoe his Feet.</hi>
+               </l>
+               <l>
+                  <hi>This truth by this dumb Language is diſplay'd,</hi>
+               </l>
+               <l>
+                  <hi>Man fain would be alive when he is dead.</hi>
+               </l>
+               <l>
+                  <hi>Thus ſtones do ſpeak, and ſpeak it to the full,</hi>
+               </l>
+               <l>
+                  <hi>That man both is, and would be living Soul.</hi>
+               </l>
+               <l>
+                  <hi>Thus Cuſtom, Nature, Piety withal,</hi>
+               </l>
+               <l>
+                  <hi>Brings Gums and Spikenard for my Burial.</hi>
+               </l>
+               <l>
+                  <pb n="65" facs="tcp:38186:35"/>
+                  <hi>Nor did my due interment want its ſence,</hi>
+               </l>
+               <l>
+                  <hi>Both as to time, and place, and circumstance,</hi>
+               </l>
+               <l>
+                  <hi>The ſeventh day was the ſeaſon God had bleſt,</hi>
+               </l>
+               <l>
+                  <hi>The very day on which I took my reſt.</hi>
+               </l>
+               <l>
+                  <hi>O'th' ſix't day</hi> Adams <hi>Body had its Birth;</hi>
+               </l>
+               <l>
+                  <hi>O'th' ſix't my Body viſited the Earth.</hi>
+               </l>
+               <l>
+                  <hi>This held for truth, and for a truth related,</hi>
+               </l>
+               <l>Adam <hi>the ſame day fell he was created,</hi>
+               </l>
+               <l>
+                  <hi>On the ſame day I gave the Thief a taſt,</hi>
+               </l>
+               <l>
+                  <hi>O'th' Fruit of Paradiſe which</hi> Adam <hi>lost.</hi>
+               </l>
+               <l>
+                  <hi>Nor was it leſs Myſterious that I have</hi>
+               </l>
+               <l>
+                  <hi>A Garden-plat, wherein to pitch my Grave.</hi>
+               </l>
+               <l>
+                  <hi>By this cunclude, my Death a way hath forc't,</hi>
+               </l>
+               <l>
+                  <hi>To Paradiſe again which</hi> Adam <hi>loſt.</hi>
+               </l>
+               <l>
+                  <hi>'Tis not without remark I laid my Head</hi>
+               </l>
+               <l>
+                  <hi>In a new Tomb where none was buried.</hi>
+               </l>
+               <l>
+                  <hi>As I was ſpotleſs in the Virgins Womb,</hi>
+               </l>
+               <l>
+                  <hi>My Purity requir'd a Virgin Tomb.</hi>
+               </l>
+               <l>
+                  <hi>Were I inter'd with ſinners as I dy'd,</hi>
+               </l>
+               <l>
+                  <hi>My Reſurection would have been beli'd.</hi>
+               </l>
+               <l>
+                  <hi>Had others ſlept with me, it might be ſaid,</hi>
+               </l>
+               <l>
+                  <hi>Some other perſon's riſen in my ſtead.</hi>
+               </l>
+               <l>
+                  <hi>My Tomb was therefore new, hewn out of ſtone,</hi>
+               </l>
+               <l>
+                  <hi>That ſo my Reſurrection may be known.</hi>
+               </l>
+               <l>
+                  <hi>Had it been built of ſtones, ſtones more than one,</hi>
+               </l>
+               <l>
+                  <hi>The Bottom might be raz'd, the Body ſtone.</hi>
+               </l>
+               <l>
+                  <hi>But ſince it was a ſtone cut out of Rock,</hi>
+               </l>
+               <l>
+                  <hi>Had</hi> Pilates <hi>Signet too, to be the Lock.</hi>
+               </l>
+               <l>
+                  <hi>Since that a weighty ſtone too, guards the Cell;</hi>
+               </l>
+               <l>
+                  <hi>And did become its ſturdy Centinel.</hi>
+               </l>
+               <l>
+                  <pb n="66" facs="tcp:38186:36"/>
+                  <hi>And to make ſure, a band of Soldiers taken,</hi>
+               </l>
+               <l>
+                  <hi>Whom envy, malice, fear, did keep awaken.</hi>
+               </l>
+               <l>
+                  <hi>This Rock ſo Guarded, was the Corner-stone</hi>
+               </l>
+               <l>
+                  <hi>Of the truth of my Reſurrection.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>SOUL.</speaker>
+               <l>Since my Lord dy'd for me, ſhall I not come,</l>
+               <l>And break a Box of Spikenard on thy Tomb?</l>
+               <l>I know thy purity and innocence</l>
+               <l>Needs not my Myrrh, my Gums, my Fankincenſe</l>
+               <l>For to preſerve thy ſacred perſon whole,</l>
+               <l>As uncorrupt in Body as in Soul.</l>
+               <l>What Pow'r in Gums and Oyntments e're can be,</l>
+               <l>The Body from corruption to keep free;</l>
+               <l>Such was the power of thy Divinity:</l>
+               <l>Since that I cannot now Embalm my Head,</l>
+               <l>I will Anoint the Members in its ſtead,</l>
+               <l>Thy Body, Hands, and Feet ſhall nor go free,</l>
+               <l>What to the Members done, is done to thee.</l>
+               <l>Since thou wilt have a Tomb cut out by Art,</l>
+               <l>Oh let thy Spirit work it in my Heart!</l>
+               <l>It is a Rocky Stone, but yet it will</l>
+               <l>Make thee a Tomb when Poliſht by thy skill.</l>
+               <l>Since it was ſo, as thou my Lord haſt ſaid,</l>
+               <l>Thou waſt inter'd where no man elſe was lay'd;</l>
+               <l>Oh let no wilful ſin dare once to dwell</l>
+               <l>Within that place where God hath made his Cell:</l>
+               <l>Seal it then with the ſignet of thy VVord,</l>
+               <l>That no vile luſt may ſteal away my Lord.</l>
+               <l>
+                  <pb n="67" facs="tcp:38186:36"/>Help me to watch my Lips, and guard my Heart,</l>
+               <l>That no ill thought, ill ſpeaking, or ill Art,</l>
+               <l>May offend my Lord and cauſe him to depart.</l>
+               <l>VVhat I engag'd in my Baptiſmal Vow,</l>
+               <l>I here remember, and do promiſe now,</l>
+               <l>That ſince my Lord was Dead and Buried,</l>
+               <l>This Truth in me ſhall be accompliſhed.</l>
+               <l>My ſins ſhall dye with thee upon the Croſs,</l>
+               <l>A painful lingring Death as Jeſus was.</l>
+               <l>VVhen once they'r Dead, Oh let it ne're be ſaid,</l>
+               <l>I ſhall renew acquaintance with the Dead.</l>
+               <l>But like our deareſt Friends, when dead and rotten,</l>
+               <l>Become vile Earth, and therefore ſoon forgotten.</l>
+               <l>So <hi>Abra'm</hi> ſaid of <hi>Sarah</hi> when ſhe dy'd,</l>
+               <l>Take her away, let her no more be ey'd.</l>
+               <l>If that my ſin with thee is thus inter'd,</l>
+               <l>And that I am made free among the dead,</l>
+               <l>I ſhall with joy at laſt lift up my head:</l>
+               <l>Lord lay me lower in this bed of duſt,</l>
+               <l>Then raiſe me to the manſions of the Juſt.</l>
+               <p>
+                  <label>The Cloſe.</label>
+               </p>
+               <l>I am thy Servant Lord! I am no Poet;</l>
+               <l>As thou doſt know, and all that know me know it.</l>
+               <l>If I have ask't, or made thee ſay amiſs,</l>
+               <l>I beg thy pardon on my beaded knees;</l>
+               <l>Grant me thy Spirit, Lord, and by its art</l>
+               <l>Do thou imprint theſe Lines upon my heart,</l>
+               <l>
+                  <pb n="68" facs="tcp:38186:37"/>That then my ſcribble, not till then, ſhall be</l>
+               <l>Eſteemed to be good Divinity.</l>
+               <l>VVhat's ſaid amiſs, thy pardon, Lord, that mine is;</l>
+               <l>What well, the Grace and Favour only thine is:</l>
+               <l>As thou haſt been my Alpha, be my —</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38186:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
